@@ -133,6 +133,11 @@ def run_search(
 # ---------------------------------------------------------------- endpoints
 
 
+@app.get("/api/health")
+def health():
+    return {"status": "ok"}
+
+
 @app.get("/api/companies")
 def companies():
     return {"companies": index.companies()}
