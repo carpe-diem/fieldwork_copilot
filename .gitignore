@@ -2,6 +2,6 @@ backend/library.db
 backend/.venv/
 __pycache__/
 node_modules/
-dist/
+backend/dist/
 .env
 .zed/
