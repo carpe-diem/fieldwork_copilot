@@ -174,46 +174,48 @@ export default function ChatView({ companies, onCite }) {
         <div ref={bottomRef} />
       </div>
 
-      <div className="input-row">
-        <textarea
-          value={input}
-          rows={1}
-          onChange={(e) => {
-            setInput(e.target.value);
-            e.target.style.height = "auto";
-            e.target.style.height = `${e.target.scrollHeight}px`;
-          }}
-          onKeyDown={(e) => {
-            if (e.key === "Enter" && (e.metaKey || e.shiftKey)) {
-              e.preventDefault();
-              const ta = e.target;
-              const s = ta.selectionStart;
-              setInput(
-                (prev) => `${prev.slice(0, s)}\n${prev.slice(ta.selectionEnd)}`,
-              );
-              requestAnimationFrame(() => {
-                ta.selectionStart = ta.selectionEnd = s + 1;
-                ta.style.height = "auto";
-                ta.style.height = `${ta.scrollHeight}px`;
-              });
-            } else if (e.key === "Enter") {
-              e.preventDefault();
-              send();
-            }
-          }}
-          placeholder="Ask about moats, pricing, risks…"
-          disabled={busy}
-        />
-        <span className="kbd" title="Shift+Enter or Cmd+Enter for new line">
-          ↵
-        </span>
-        <button
-          type="button"
-          onClick={() => send()}
-          disabled={busy || !input.trim()}
-        >
-          {busy ? "Working…" : "Ask"}
-        </button>
+      <div className="chat-footer">
+        <div className="input-row">
+          <textarea
+            value={input}
+            rows={1}
+            onChange={(e) => {
+              setInput(e.target.value);
+              e.target.style.height = "auto";
+              e.target.style.height = `${e.target.scrollHeight}px`;
+            }}
+            onKeyDown={(e) => {
+              if (e.key === "Enter" && (e.metaKey || e.shiftKey)) {
+                e.preventDefault();
+                const ta = e.target;
+                const s = ta.selectionStart;
+                setInput(
+                  (prev) => `${prev.slice(0, s)}\n${prev.slice(ta.selectionEnd)}`,
+                );
+                requestAnimationFrame(() => {
+                  ta.selectionStart = ta.selectionEnd = s + 1;
+                  ta.style.height = "auto";
+                  ta.style.height = `${ta.scrollHeight}px`;
+                });
+              } else if (e.key === "Enter") {
+                e.preventDefault();
+                send();
+              }
+            }}
+            placeholder="Ask about moats, pricing, risks…"
+            disabled={busy}
+          />
+          <span className="kbd" title="Shift+Enter or Cmd+Enter for new line">
+            ↵
+          </span>
+          <button
+            type="button"
+            onClick={() => send()}
+            disabled={busy || !input.trim()}
+          >
+            {busy ? "Working…" : "Ask"}
+          </button>
+        </div>
       </div>
     </div>
   );

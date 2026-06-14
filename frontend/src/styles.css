@@ -106,6 +106,7 @@ main {
 	flex: 1;
 	display: flex;
 	min-height: 0;
+	background: var(--paper);
 }
 .chat,
 .compare {
@@ -117,13 +118,15 @@ main {
 	margin: 0 auto;
 	width: 100%;
 	padding: 0 26px;
+	background: var(--surface);
 }
 
 .scope-row {
 	display: flex;
 	align-items: center;
 	gap: 10px;
-	padding: 16px 0 0;
+	padding: 14px 0;
+	border-bottom: 0.5px solid var(--line);
 }
 select {
 	font-family: var(--sans);
@@ -279,6 +282,10 @@ select:hover {
 	cursor: default;
 }
 
+.chat-footer {
+	background: var(--surface);
+}
+
 .input-row {
 	display: flex;
 	align-items: center;
@@ -334,6 +341,26 @@ select:hover {
 .compare-controls button:disabled {
 	opacity: 0.4;
 	cursor: default;
+}
+
+/* -------------------------------------------------- markdown in chat */
+.cited-text p {
+	margin: 0 0 10px;
+}
+.cited-text p:last-child {
+	margin: 0;
+}
+.cited-text ol,
+.cited-text ul {
+	margin: 0 0 10px;
+	padding-left: 22px;
+}
+.cited-text ol:last-child,
+.cited-text ul:last-child {
+	margin: 0;
+}
+.cited-text li {
+	margin: 4px 0;
 }
 
 /* ------------------------------------------------------- source panel */

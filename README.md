@@ -74,6 +74,88 @@ python ingest.py              # re-chunks and re-embeds the full corpus
 
 Use `/add-doc` inside Claude Code for a guided walkthrough.
 
+## Decisions and tradeoffs
+
+This is a demo built to anchor a conversation, not a production system.
+Every shortcut below is deliberate — the goal was ~2 hours of build time
+and something fully explainable in an interview.
+
+---
+
+### Storage: SQLite → PostgreSQL
+
+**Demo**: a single `library.db` file. Zero ops, zero config, runs anywhere.
+
+**Production**: PostgreSQL. Reasons: concurrent writes (ingestion jobs alongside
+the live API), proper connection pooling, row-level locking, and — critically —
+the `pgvector` extension, which makes the vector index part of the same DB and
+eliminates the two-system problem (relational data in Postgres, vectors in a
+separate store).
+
+---
+
+### Vector search: numpy brute-force → pgvector + HNSW
+
+**Demo**: `store.LibraryIndex` loads all embeddings into a numpy matrix at
+startup and computes cosine similarity in-process. At <5k chunks it's
+sub-millisecond with zero infrastructure.
+
+**Production**: pgvector with an HNSW index. HNSW is an approximate
+nearest-neighbor algorithm with sub-linear query time — essential at 100k+
+chunks. Because it lives in Postgres, filtering by company or date range is a
+single query with no extra round-trip. The migration is intentionally contained
+in `store.py`.
+
+At larger scale (multi-tenant, millions of chunks): a dedicated vector store
+(Pinecone, Weaviate) gives geo-distributed indexes, filtered ANN, and zero
+operational burden at the cost of an additional service.
+
+---
+
+### Retrieval: embeddings only → hybrid BM25 + embeddings + RRF
+
+**Demo**: semantic similarity only. Works well for conceptual queries ("how
+does management think about pricing"). Recall degrades on proper nouns, ticker
+symbols, and exact phrases where keyword search would win.
+
+**Production**: hybrid retrieval. Run BM25 (keyword) and embedding (semantic)
+searches in parallel, then merge ranked lists with Reciprocal Rank Fusion.
+This fixes the "Wizz Air" / "WIZZ" / "W9Z" recall problem without
+fine-tuning the embedding model. Also enables exact-quote lookup, which pure
+vector search misses.
+
+---
+
+### LLM client: OpenAI SDK → LiteLLM (Or similar)
+
+**Demo**: `openai.OpenAI()` called directly in `helpers.py`. Switching
+providers means changing code.
+
+**Production**: LiteLLM (Or similar) — a thin layer
+that speaks the OpenAI API but routes to any provider (Anthropic, Gemini,
+Azure, local Ollama). Benefits:
+- **Model routing**: cheap model for simple queries, expensive model for
+  complex multi-step reasoning.
+- **Fallbacks**: if OpenAI is unavailable, route to Anthropic automatically.
+- **Cost tracking** and per-tenant rate limiting without extra infrastructure.
+- **A/B testing** of models with no code changes.
+
+The swap is one line in `helpers.py`: `OpenAI()` → `litellm.completion()`.
+
+---
+
+### Database access: raw SQL → SQLAlchemy Core
+
+**Demo**: `sqlite3` with hand-written SQL strings in `store.py`. Fine for a
+single-table schema with a handful of known queries.
+
+**Production**: SQLAlchemy Core (not the ORM — the query patterns here are
+ad-hoc enough that full ORM abstraction adds noise). Benefits: parameterized
+queries as a default (no SQL injection surface at boundaries), dialect-agnostic
+code (same models work with SQLite in tests, Postgres in prod), and Alembic for
+schema migrations without manual `ALTER TABLE`.
+---
+
 ## Claude commands
 
 These slash commands are available inside Claude Code (`/command-name`):
