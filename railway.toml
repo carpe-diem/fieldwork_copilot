@@ -1,5 +1,5 @@
 [build]
-buildCommand = "uv sync --project backend"
+buildCommand = "pip install ./backend"
 
 [deploy]
 startCommand = "cd backend && python ingest.py && uvicorn main:app --host 0.0.0.0 --port $PORT"
