@@ -1,0 +1,1273 @@
+Ryanair Holdings PLC R (RY4C.F) Q4 FY2026 earnings call transcript
+Powered by Quartr
+May 18, 2026, 11:00 AM GMT+2
+
+Earnings call
+
+Ryanair reported record FY26 profit of EUR 2.26 billion, up 40% YoY, with traffic reaching 208.4 million (+4%) despite Boeing delivery delays. Management expects FY27 traffic to grow 4% to 216 million, but provides no profit guidance due to Middle East conflict and fuel price volatility, while emphasizing strong hedging, cost discipline, and a debt-free balance sheet.
+
+Powered by Yahoo Scout
+Operator
+0:00:00
+
+Hello and welcome everyone to the Ryanair Holdings plc FY 2026 earnings release. My name is Becky, and I will be coordinating your call today. If you would like to ask a question, you may do so by pressing star followed by one on your telephone keypad. I will now hand you over to Michael O'Leary, Group CEO of Ryanair Holdings, to begin. Michael, please go ahead when you're ready.
+
+Michael O'Leary
+Group CEO
+0:00:26
+
+Okay. Good morning, ladies and gentlemen. Welcome to the full-year results analyst conference. I'm joined by all the team on I'm speaking to you from New York. I'm joined by all the team from London, Dublin and various other sites around Europe. As you'll have seen early this morning, we reported a record full-year profit of EUR 2.26 billion, which is a rise of 40% over our prior year profit after tax of EUR 1.6 billion. The highlights were traffic growth of 4% to a new record figure of 208.4 million. That was achieved despite delivery delays on 29 Boeing Gamechanger aircraft. During the year, incredible cost discipline. Unit cost rose only 1%.
+
+Michael O'Leary
+Group CEO
+0:01:11
+
+For the, looking forward for the next 12 months, we've covered 80% of our jet fuel at about $67 per barrel, 668 per mt. We took delivery of the last 29 of our 210 Gamechanger orders. We have 647 aircraft in the fleet at the 31st of March. We declared a final dividend of EUR 0.195 per share is payable in September, subject to AGM approval. Obviously we've had a record year and we're delighted with these results. They've been overtaken obviously by the conflict in the Middle East.
+
+Michael O'Leary
+Group CEO
+0:01:46
+
+Like everybody else, we don't know when the Strait of Hormuz will reopen. Europe remains very well supplied with jet fuel, and significant almost all of Europe's jet fuel is now sourced from West Africa, the Americas and Norway. Our very conservative jet fuel hedging strategy, as I said, under which 80% for the next 12 months is hedged at $67 per barrel out to April 2027, will insulate the Ryanair Group earnings from the current very volatile oil markets and will significantly widen the cost advantage we hold over all EU competitors for the remainder of FY 2027. As you'll see, the balance sheet remains strong with a BBB+ credit rating, both Fitch and S&P.
+
+Michael O'Leary
+Group CEO
+0:02:34
+
+We've an unencumbered Boeing 737 fleet of 628 aircraft, 20 aircraft. At the 31st of March gross cash was EUR 3.6 billion. This was after spending EUR 1.9 billion on CapEx, EUR 1.2 billion on debt repayments and over EUR 900 million in shareholder distributions over the last 12 months. Net cash was EUR 2.1 billion at year-end, which enables the group to repay our very last EUR 1.2 billion bond next week before the end of May, which leaves our group effectively debt free, which is a stunning achievement for any non-government owned airline. During FY 2026, we purchased and canceled another 2% of our issued share capital. We've retired 38% of Ryanair's issued share capital since 2008.
+
+Michael O'Leary
+Group CEO
+0:03:22
+
+The final dividend of EUR 0.195 is payable in September, and subject to AGM approval. Our priorities with our cash over the next 12 months are obviously, firstly to fund the final bond repayment in May, then to fund our MAX 10 aircraft CapEx over the next 12 months, to pay down dividends and continue to fund the balance of our EUR 750 million buyback program at favorable lower prices recently, while rebuilding internal cash flows or the group's cash back to EUR 4 billion. I'm gonna touch briefly on the fleet growth. As we said, at the year-end we have 647 aircraft, which includes 210 Gamechangers, all of which are debt-free and unencumbered.
+
+Michael O'Leary
+Group CEO
+0:04:10
+
+Boeing are making very positive noises about the MAX 10 certification, which they now expect to take place at the end of Q3, early Q4 2026. They've also confirmed in writing that they expect to deliver Ryanair's first 15 MAX 10s in the spring of 2027 in line with the original contract dates. Once we take 300 of these fuel efficient aircraft, all of which are due to deliver by March 2034, they will transform the economics, the operating costs of Ryanair as they enable us to offer 20% more seats to the market, but they burn 20% less seat, less fuel per flight. This summer, Ryanair has 130 new routes on sale. They include 3 new bases in Rabat, Morocco, Tirana in Albania, and Trapani in Southern Italy.
+
+Michael O'Leary
+Group CEO
+0:05:00
+
+Our scarce FY 2027's capacity growth or summer 2026 capacity growth is allocated to those regions and airports who are actively cutting aviation taxes like Sweden, Slovakia, Albania and regional Italy, and are also where airports are incentivizing traffic growth. We're switching our scarce capacity away from uncompetitive high tax markets like Austria, Belgium, Germany and regional Spain. The board and myself commenced discussions on an extension of my employment contract, which currently runs to 2028. That runs out until April 2032. We recently concluded an outline agreement, and the board will commence engagement with our largest institutional shareholders in the coming days.
+
+Michael O'Leary
+Group CEO
+0:05:51
+
+The key feature of the contract extension is I will have the purchase options over 10 million shares, but these will only vest if we achieve a very ambitious profit after tax-share price growth targets over the next six years, i.e. before 2030. If we do, we will create very substantial capital value for all shareholders. I want to turn briefly to the outlook. We expect full-year FY 2027 traffic to grow about 4% to 216 million passengers. The key feature of the next 12 months is that 80% of our total jet fuel has been hedged at $67 per barrel, which is lower than last year's $76 per barrel price. However, the price of our unhedged 20% has spiked due to the Middle East conflict.
+
+Michael O'Leary
+Group CEO
+0:06:44
+
+Our EU Enviro taxes are also expected to rise by a further EUR 300 million this year to EUR 1.4 billion, which makes EU air travel even less competitive than it was before. Ryanair, like all of the European airlines, are calling for either the abolition of ETS or bringing ETS taxes in line with CORSIA rates, which is what the non-EU airlines pay. It makes no sense that we tax ourselves. European airlines are, and passengers are taxed so indiscriminately compared to our non-EU competitors. Our maintenance costs will rise modestly due to an aging NG fleet and mid-life hospital visits on the LEAP engines. There will also be some significant crew pay increases agreed this year.
+
+Michael O'Leary
+Group CEO
+0:07:33
+
+We've recently completed five-year pay deals with our Italian pilots and cabin crew. We're actively in active negotiations with a wide number of other national pilot and cabin crew unions, and we expect to agree follow on deals with those over the coming weeks and months. If the unhedged fuel prices remain at current elevated levels throughout the remainder of FY 2027, unit costs could rise in Ryanair by a mid-single digit percentage. That would still demonstrate incredible unit cost discipline. To date, our summer 2026 travel demand remains robust. Bookings since the war in the Middle East, are closer in than they were last year, which reduced visibility.
+
+Michael O'Leary
+Group CEO
+0:08:22
+
+Pricing in recent weeks has eased somewhat in response to economic uncertainty caused by higher oil prices, far too much media attention about the fear of fuel shortages, which we believe does not exist, and the risk of inflation adversely impacting consumer spending. In fact, the trend we've been seeing is that further out into June, July and August, we're having to marginally discount pricing, you know, maybe 1% or 2%, to keep the forward curve rising. The close-in bookings in early mid-May are strong and pricing is strong. With the first week of Easter falling into March, which benefited last year's Q4, we now expect Q1 fares to be behind Q1 FY 2026 by a mid-digit percentage.
+
+Michael O'Leary
+Group CEO
+0:09:09
+
+With constrained EU capacity and short-haul capacity due to OEM delivery delays and to CFM with the engine repairs, we'd originally expected S 26 fares to rise modestly. We thought we'd be in the lows plus low single digits after a 10% fare increase in the prior year. However, Q2 pricing with limited visibility is now trending broadly flat, and the final outcome will be totally dependent on close-in peak summer 26 bookings and fares. With 0 H2 visibility and significant fuel price potential supply volatility, it's far too early to provide any meaningful FY 2027 profit guidance at this time. With that, I'm going to ask Neil Sorahan, the Group CFO, to take us through the MD&A. Neil?
+
+Neil Sorahan
+Group CFO
+0:09:55
+
+Thanks, Michael. I'm just gonna maybe reiterate a couple of points that you already made. First and foremost, looking at last year, very strong performance on unit costs up 1%. In line with the modest unit cost inflation that we previously guided. Balance sheet, as Michael has already said, finished the year rock solid. Fortress balance sheets, BBB+ rated, EUR 3.6 billion gross cash. I'm, as a CFO, very excited that we'll be debt-free this day next week, having paid off our final EUR 1.2 billion bonds, and a very strong unencumbered fleet available to us. I suppose looking beyond then into next year, again, very well hedged, as Michael has already said. $668 a mt. We hedge jet fuel.
+
+Neil Sorahan
+Group CFO
+0:10:43
+
+We don't hedge Brent or gas oil. We hedge exactly what goes into the tanks. That has always been the case, but equally very well hedged on the euro dollar as well. We don't generate any dollars in the business. So we've hedged 80% of our dollar requirements on fuel this year at 1.15. Indeed, we've put down a floor into the first half of next year with nearly 30% euro dollar hedged at 1.20. Locking in dollar savings, but haven't got, haven't moved on with our jet fuel yet, just waiting to see where the market steadies in the next number of weeks.
+
+Neil Sorahan
+Group CFO
+0:11:22
+
+The next big mover on the cost base, as Michael has alluded to, is going to be the MAX 10 aircraft coming in the spring of next year. 20% more fuel efficient, 20% more seats. We'll be spreading the costs across 20% more traffic from then onwards. Business is in good shape, the balance sheet's rock solid, and we're managing things that are within our control well. Michael, hand back over to you, please.
+
+Michael O'Leary
+Group CEO
+0:11:53
+
+Okay. Thank you, Neil. With that, we'll ask the moderator open up for Q&A, please. We're going to limit everybody, obviously, to two questions as normal, so we get through this in about an hour.
+
+Operator
+0:12:03
+
+Thank you.
+
+Operator
+0:12:21
+
+Our first question comes from Stephen Furlong from Davy. Your line is now open. Please go ahead.
+
+Stephen Furlong
+Analyst
+0:12:28
+
+Oh, hi Michael. Okay.
+
+Michael O'Leary
+Group CEO
+0:12:32
+
+Stephen, hi.
+
+Stephen Furlong
+Analyst
+0:12:33
+
+I just want to ask Yeah, hi. I want to ask about aircraft actually, and just generally capacity. I saw in your presentation you've kind of smoothed out the future growth plan. Maybe it's just the timing of deliveries. It's 3% or so in the next two years. Do you think that as we go into the winter, it's likely that there'll be changes in the market capacity? Presumably at these oil prices, a lot of competitors are stressed. Even beyond that, obviously you're working with Boeing to get the MAX 10s. With the balances you have, do you think there could be a situation that Boeing came back for MAX 10s or even 737-8s and you'd be interested in even more aircraft? Thanks a lot.
+
+Michael O'Leary
+Group CEO
+0:13:19
+
+Okay. Thanks, Steve. I think there's two questions. Look, the thing that overrides these record results this morning, record profits, record growth, is the war in the Middle East. You know, frankly, none of us know when that will finish or when that will wind up or when the Strait of Hormuz will reopen. It therefore makes sense for us to be very conservative. We're saying this morning, if the war in the Middle East and the Strait of Hormuz remain closed until the end of March 2027 and oil, jet oil remains at $150 a barrel, then our unit cost might rise about 5%. I mean, if that happens, there will be about three or four airlines left flying in Europe. We are by far and away the best hedged airline in Europe.
+
+Michael O'Leary
+Group CEO
+0:14:00
+
+There's a lot of our competitors who are significantly poorly hedged. Most of them are hedged to the end of September, October, with very little hedging in place through to the winter months. Look, I do not expect the Strait of Hormuz to remain closed until March of next year. The U.S. has midterm elections in November. I have been reliably advised by a number of senior U.S. politicians that Memorial Day at the end of May is when those midterms kick off and that, you know, there will need to be a resolution of the situation by the end of May.
+
+Michael O'Leary
+Group CEO
+0:14:35
+
+If it does continue over those 12 months, there will be significant airline failures in Europe this winter, mainly from some competitor airlines who offer low fares but don't have low costs, have very stressed gearing on their balance sheet and are not as well hedged as Ryanair. You see already many of those airlines are cutting capacity. You know, they've cut capacity up to 5%-6% during April, May, and into the June quarter. We are not cutting capacity. We are continuing with our own 4% traffic growth, we will expect to continue that through the summer. Again, taking advantage of our a very strategically strong fuel hedging position. I would expect us to grow strongly.
+
+Michael O'Leary
+Group CEO
+0:15:22
+
+If unhedged oil remains higher for longer, there might be a slight dip in profitability this year. We're talking slight dips, not anything that reflects the recent 20% -25% decline in the share price. We see this as an enormous buying opportunity. We continue to meet shareholders. "Oh, well I wish we'd bought the last time there was a dip." Well, here's the dip and here's your chance. We are continuing to exercise our buyback, and we're getting tremendous value for shareholders by buying back stock in the market at these current prices. Do I think there'll be more aircraft? I'm not sure, Stephen. It was interesting, I was talking to one of the aircraft lessors a week ago who had taken aircraft back from the Spirit failure in the U.S.
+
+Michael O'Leary
+Group CEO
+0:16:04
+
+One of the interesting thing was they had repossessed 25 aircraft. They'd taken the 50 engines off the 25 aircraft and put them into the engine pool. They seem to be able to make more spare money out of spare engines than they are even releasing secondhand aircraft. We expect the current crisis to worsen the capacity situation in Europe, and the capacity situation in Europe was already significantly muted this year. We had originally thought that would lead to higher pricing. I still believe that will lead to higher pricing, only when there's a resolution of the war in Iran and the Strait of Hormuz reopen. I think our pricing will rebound strongly and our unhedged fuel will fall significantly. We're not there yet, and we don't know when that will happen.
+
+Michael O'Leary
+Group CEO
+0:16:52
+
+Are Boeing likely to turn around and offer us more MAX 10s? Sadly no, because they can't make them fast enough at the moment. They still have to get it certified at the end of this year. Will there be more MAX 8s available? Highly unlikely. I mean, there's a huge backlog of demand out there for the two OEMs, Airbus and Boeing. None of them have any spare aircraft availability this side of 2031, 2032. As Neil has said, we will always in Ryanair be opportunistic. If there was, if somebody was distressed and came to us offering us very low cost 737-8s or 10s, we would certainly look at it. That's why we continue to maintain a very strong balance sheet.
+
+Michael O'Leary
+Group CEO
+0:17:36
+
+I should say Since the war in Iraq, we've commenced negotiations on reasonably modest lease extensions of the Airbus, the 26 Airbus fleet in Lauda. Most of those aircraft leases that end in 2028, 2029, we're extending them at the moment out to 2030, 2031, just so that we can match their retirements into the deliveries of 40 when we get up to the 40 or 50 aircraft deliveries with Boeing. You'll have seen this morning we pulled back the traffic growth through FY 2028 and FY 2029 because Boeing can only deliver us 15 aircraft each spring in those two years. By the time I get to FY 2030, they're delivering us 40, 50 aircraft. Then I can resume strong capacity growth in Europe and take out the Airbus aircraft if we can't source some newer air or newer younger aircraft leases to replace the Lauda A321 fleet. We see lots of opportunity out there in the current climate. Our guidance, I think, it is sensible to assume a worst case. The worst case is that the war will continue and the Strait of Hormuz will remain closed until March of 2027. Frankly, none of us believe that to be the case. I think there's nothing but upside at the moment in our trading outlook, and there's nothing but upside in our share price currently. Thank you, Stephen. Next question.
+
+Operator
+0:19:03
+
+Thank you. Our next question comes from Jaime Rowbotham from Deutsche Bank. Your line is now open.
+
+Michael O'Leary
+Group CEO
+0:19:09
+
+Jaime, hi.
+
+Operator
+0:19:09
+
+Please go ahead.
+
+Jaime Rowbotham
+Analyst and Director
+0:19:12
+
+Hi, Michael. First, in terms of that best guess on flat pricing for Q2, it was a similar outlook this time 2 years ago, then in July downgraded to fares now seen materially lower. That was largely the OTA headwinds, which you recovered very well from in 2025. I just wanted to get a sense if there's little change in the next 2 months in terms of jet fuel prices, the Middle East conflict, how worried are you that you might have to deliver a similar message in 2 months' time, given the far more turbulent backdrop now? Secondly, with the mid-single-digit guidance for increased full-year unit costs, is it a similar increase for the fuel piece versus the non-fuel piece?
+
+Jaime Rowbotham
+Analyst and Director
+0:19:56
+
+With regard to the latter, maybe some additional color on the magnitude of the crew pay increases in the new contract labor agreements. Thank you.
+
+Michael O'Leary
+Group CEO
+0:20:07
+
+Thanks, Jaime. I'll ask Neil to do the prep for the second half of the question, which is the unit cost increase, which is almost largely the unhedged fuel. Nevertheless. Let me talk about pricing into Q2. We're reflecting what is a trend we've seen develop over the last, I would say, six, eight weeks. You know, previously we were reasonably, the pricing into Q2, which is the July, August, September quarter, we were seeing, you know, modest mid-single digit increases. I think what has happened with the war in Iraq, in the Middle East is there's been a degree of passenger hesitancy. You've lots of people who may already have made bookings to go long haul or across the Gulf carriers into the Middle East. They're holding off. Will it clear?
+
+Michael O'Leary
+Group CEO
+0:20:52
+
+What will happen? We think that would break very much in favor of European air travel as we get to the school holidays now. It'll break in favor of European air travel. We believe we think we're vindicated with the strength of the close-in bookings, both volumes and pricing during May. We had another very strong weekend of bookings this weekend. We finished 50,000 bookings ahead of the target. Again, strong close-in pricing, strong close-in volumes. We were a little bit off. I mean, you know, you're talking maybe 1% or 2% of the forward bookings out into June, July, the end of June, July, August, compared to this time last year. We think people, I mean, anecdotally, lots of people are just waiting to see what will happen. Will it be safe? Can I travel?
+
+Michael O'Leary
+Group CEO
+0:21:36
+
+I think 2 things come from that. 1, people will travel. you know, where they will, families will go on holidays. The question is, will they go on holidays, long haul or to the Middle East, or will they stay at home and go on holidays in Europe? We think they will stay at home and go on holidays in Europe. you know, You know, I am generally 1 of life's optimists. I think the war in the Middle East will get resolved in the next month or 2, I think you will see both a decline in spot oil prices and a reasonable surge in bookings through to the mid, into Q2. I'm guessing, that's not guide.
+
+Michael O'Leary
+Group CEO
+0:22:16
+
+At the moment it makes sense for us to guide based on what we presently see, which is flat pricing, and unit cost, if it continues like this for the full-year, up 5%. I think that is likely to be a worst case scenario, and I think there's lots of, there will be lots of upside in those numbers if the war, if the Strait of Hormuz reopen and oil prices settle back. Not, I mean, they won't go all the way down to $67 a barrel immediately, but I do believe they will settle down under, well under $100 a barrel by the time we get to the back end of the summer. Neil Sorahan, on the unit cost inflation.
+
+Neil Sorahan
+Group CFO
+0:22:54
+
+Yeah, Jamie, good morning. I suppose the two key words in the outlook on the unit cost inflation are if and could. If fuel remains at a current level on the unhedged, then we could be looking at unit cost increase in the mid-single digits. To put it in context, when we were doing our budgets back in February, March, we were actually looking at unit costs if the curve had remained where it was then, being down on fuel on a per passenger basis. It's now nudging above mid-single digits at this point in time based on where the forward fuel curve is. Without giving away too many secrets, if fuel is ahead of mid-single digits, then obviously ex-fuel unit costs are marginally below.
+
+Neil Sorahan
+Group CFO
+0:23:41
+
+we're continuing to perform very well on the ex-fuel unit cost, locking in good airport deals, locking in good long-term opportunities. We've got 29 more Gamechangers in the fleet this summer, 4% more passengers spreading the cost over those, 20% more fuel efficient. you know, we've got a lot of issues in there. I don't plan to go into too much detail on the crew pay, but might ask Eddie if he wants to add any color on that.
+
+Eddie Wilson
+CEO
+0:24:12
+
+Yeah, I mean, if you look at what the CLAs as they have ticked over from April for renewal out to five years. You have like I'm not gonna go into percentages, but there's an element of front-loading on those five-year deals and then more modest increases thereafter. I mean, when you look at what pilots and cabin crew want, I mean, they want that longer-term certainty. They also want the favorable rosters back in the case of the pilots to keep continuing to roll the five-four rosters, which is an integral part of the whole scheduling process that everybody wins on. Increasingly, things like job security, yeah, are raising their heads out there.
+
+Eddie Wilson
+CEO
+0:24:56
+
+I mean, pilots and cabin crew know exactly what happens in situations like this. Even with the sort of recent closures that we've had in Berlin and Thessaloniki, at least there are jobs with the growth elsewhere within the network. We're going to continue to talk to the other pilot groups and cabin crew groups that are maturing on their deals at the moment, and we're working our way through those.
+
+Eddie Wilson
+CEO
+0:25:23
+
+Thanks, Jamie.
+
+Jaime Rowbotham
+Analyst and Director
+0:25:23
+
+Thanks, Eddie.
+
+Eddie Wilson
+CEO
+0:25:24
+
+Next question, please.
+
+Operator
+0:25:26
+
+Thank you. Our next question is from James Hollins from BNP Paribas. Please go ahead.
+
+James Hollins
+Head of Transport and Infrastructure Research
+0:25:33
+
+Thanks very much. A couple for you, Michael. Just wondering so regionally.
+
+Michael O'Leary
+Group CEO
+0:25:37
+
+Yeah
+
+James Hollins
+Head of Transport and Infrastructure Research
+0:25:37
+
+I was wondering if you'd flag any region showing particular hesitancy on bookings relative to others. Also regionally, whether you're worried about jet fuel shortages anywhere. You sound very confident on jet fuel. Secondly, clearly you're not a man to ever waste a crisis. I was wondering if you could just run us through your thoughts for this summer. Clearly, lots of chat about pricing, but would you maybe use this summer to pressure some competitors or just let the demand cycle play out? Thanks.
+
+Michael O'Leary
+Group CEO
+0:26:08
+
+Thanks very much. Let me run through those briefly. There isn't much difference on the regional shape. I mean, you take our size and scale. I think the real trend for us this summer is that we are switching capacity away from country. We're closing the base in Berlin in October. We're closing the base in Thessaloniki. We're closing, we're taking aircraft away from regional Spain, France. Vienna, the base is reducing. Any of those countries who still have a kind of environmental tax on air travel or high airport fees, we're switching capacity away for those, and their traffic is in decline. For example, Vienna last week reported April traffic down 8%. We're switching those aircraft in favor of that capacity, in favor of those airports in places like Sweden.
+
+Michael O'Leary
+Group CEO
+0:26:52
+
+You remember the home of Greta Thunberg and flight shaming. A new transport minister has abolished aviation taxes up there. Arlanda has introduced a very imaginative growth incentive scheme, we're growing like gangbusters up there. Similar situation in Slovakia, regional Italy, where they're abolishing municipal tax. Albania, where they've not alone abolished aviation tax, they've cut ATC fees, and the airport has introduced a growth incentive available to all airlines, which we are gobbling up very rapidly. That doesn't mean there isn't even in those new markets where we're growing strongly, there is a degree of hesitancy out into June, July, August.
+
+Michael O'Leary
+Group CEO
+0:27:32
+
+I think, you know, it's not any major downturn, but for this time of the year, we're having to slightly open up a little bit on pricing just to keep that forward-booking curve in line with our own internal targets. We're running, you know, 0.2% ahead of our targets for May and June. We're bang on that target for July, August and September. We're very comfortable where we are. We're seeing this kind of trend for about the last two months. Further out, we're having to do a little bit of price discounting to keep the volumes going. That's even while our competitors are taking out up to 4% or 5% of their own short-haul capacity. You know, there is a little bit of customer nervousness out there.
+
+Michael O'Leary
+Group CEO
+0:28:14
+
+We think that will break in favor of stronger close-in bookings and pricing as we move through June, July and August. It very much depends on what and when what and when the Strait of Hormuz and the conflict in Iran ends. Jet fuel shortages, I think there was a real concern there about a month, two months ago in Europe. At this point in time, and we do regular weekly meetings with our fuel team. We're in Paris at the conference last week. We now have almost zero concerns over fuel supplies across Europe. The only area where there's a slight reservation is Q8, which is the oil subsidiary of the state of Kuwait. Has about 25% market share in the U.K.
+
+Michael O'Leary
+Group CEO
+0:29:00
+
+Even they are now switching their supplies or their imports to the Americas away from the Middle East. Europe is now essentially fully supplied with Jet A, Jet A and Jet A-1 coming from West Africa, Norway, the Middle East and some of the Central Eastern European countries are taking Jet A-1 from Russia. We do not now see any real risk to supplies. In the case of Kuwait and the U.K., our other large oil suppliers in the U.K. have said they will be able to supply us with fuel if there was any disruption with Kuwait. We don't really. The Kuwaitis are reasonably confident they will be able to meet our supply in full through the summer season. I think our concern over the risk of jet fuel shortages has now receded.
+
+Michael O'Leary
+Group CEO
+0:29:44
+
+The challenge remains price is very volatile, as you all know. We think that will break meaningfully if there is some resolution of the conflict in around the Straits of Hormuz. If it doesn't, I think you will see meaningful competitor failures or very dramatic capacity cuts from competitors who will be running out of cash as we move to the end of the summer through August, September, October. What was the last point on competition?
+
+James Hollins
+Head of Transport and Infrastructure Research
+0:30:16
+
+I mean, I just called you a man never to waste a crisis. I was wondering if you were sort of thinking about stamping your boot-
+
+Michael O'Leary
+Group CEO
+0:30:21
+
+Yeah, no, no.
+
+James Hollins
+Head of Transport and Infrastructure Research
+0:30:21
+
+on some of your competitors.
+
+Michael O'Leary
+Group CEO
+0:30:22
+
+I mean, look, yeah, we never, ever, I would say, expand our, you know, take advantage of our competitors or do something or deploy capacity based on what competitors are doing. We couldn't care less. We deploy capacity based on where the airport incentives are at their greatest. We have been struck with the extent to which, for example, you know, Albania, Tirana, which was a, has, you know, it has a 12-aircraft Wizz base, are really very concerned, like a lot of European airports, about some of their incumbent carriers viability or survivability. They are getting very aggressive with the incentives or the growth incentive schemes they're putting in place. We're seeing that play itself out across Europe.
+
+Michael O'Leary
+Group CEO
+0:31:13
+
+We're also seeing it now very prominently in the Baltic states. There are a number of I would characterize our expansion this summer as not one of can we put competitor or put pressure on competitors, but rather taking advantage of unique growth opportunities that are now being made available to us because a number of our competitor, our airport partners are becoming increasingly concerned that either, A, their reliance on some of our flaky competitors or, B, and they've said this to us themselves, are genuinely worried that some of our flaky competitors might not survive this winter. Like, my view would they'd be right in that. But we deploy capacity based on those markets where aviation taxes are being cut, and airport incentive schemes are being improved. Thanks for the question. Next question, please.
+
+Operator
+0:32:05
+
+Thank you. Our next question is from Muneeba Kayani from BofA. Please go ahead.
+
+Michael O'Leary
+Group CEO
+0:32:11
+
+Muneeba, hi.
+
+Muneeba Kayani
+Managing Director, Head of European Transport,and Hotels Research
+0:32:13
+
+Good morning. Two questions, please. Firstly, just wanted to go back on share buybacks. Michael, you talked about.
+
+Michael O'Leary
+Group CEO
+0:32:20
+
+Yeah
+
+Muneeba Kayani
+Managing Director, Head of European Transport,and Hotels Research
+0:32:20
+
+The CapEx clearly, but you've also talked about the share price being attractive. What are your thoughts right now on topping up the buyback? I know you have still a bit remaining in that. That's the first question. Secondly, just longer-term, how are you thinking about that 12-14 profit per pax outlook if fuel prices remain elevated? Like, could there be a scenario of this capacity cuts from other airlines kind of supporting that outlook even in a high fuel environment, or is that not possible? Thank you.
+
+Michael O'Leary
+Group CEO
+0:32:57
+
+Yeah. Sorry, you broke up there. You were saying on the outlook on profit per pax, was there a period or, did you say years there or?
+
+Muneeba Kayani
+Managing Director, Head of European Transport,and Hotels Research
+0:33:04
+
+No. Correct me if I'm wrong, but I think previously you'd said you'd expect that to get to the 12-14 range in the.
+
+Michael O'Leary
+Group CEO
+0:33:14
+
+Oh, sorry. Yeah.
+
+Muneeba Kayani
+Managing Director, Head of European Transport,and Hotels Research
+0:33:14
+
+-medium term. how are you-
+
+Michael O'Leary
+Group CEO
+0:33:17
+
+Yeah
+
+Muneeba Kayani
+Managing Director, Head of European Transport,and Hotels Research
+0:33:17
+
+Thinking about that in this fuel environment, which could maybe take out capacity from others? What are the moving parts in it, given that it's a different fuel environment right now?
+
+Michael O'Leary
+Group CEO
+0:33:30
+
+Yeah, sure. Thanks, Muneeba. Okay, let me deal with the two of those. On the share buybacks, we're about EUR 600 million through the existing or 80% of the way through the existing EUR 750 million buyback. We expect to complete that buyback. We're pretty much very fettered in the way we can manage buyback, so it all has to be board approved, announced to the market that we buy a certain percentage of the daily trades. We continue to do that. Nevertheless, I think the war in the Middle East has been very helpful to us. It has brought the average cost of that buybacks in the earlier dates from down from about EUR 28, EUR 28.50 a share. We're now down around EUR 26.40 average price per share.
+
+Michael O'Leary
+Group CEO
+0:34:12
+
+Would we step up and come up with a new buyback in the next three or a couple of quarters? I think it's highly unlikely. Remember our big deployment of cash currently is to fund the repayment of the final bond debt. To put that in some context, we're going to repay a EUR 1.2 billion bond, a bond we drew down during COVID. We pay only 0.85% on that, but if we were to try to refi that today, the cost would be about 4%. I think it demonstrates the strength of the Ryanair business model and our cash flows.
+
+Michael O'Leary
+Group CEO
+0:34:48
+
+We came out of COVID with EUR 4 billion of gross cash, and in the last five years, we have now paid down that EUR 4 billion of gross debt, sorry. We have a gross debt of EUR 4 billion at the end of COVID. We have now paid down that EUR 4 billion of gross debt over the last five years while funding paid by, while funding buybacks, while funding shareholder dividends, and also funding gross CapEx on the remainder of the Gamechanger fleet. If I look forward over the next four years, so I don't think we'll do another share buyback in the next two couple of quarters, or certainly not before the end of this calendar year.
+
+Michael O'Leary
+Group CEO
+0:35:25
+
+We're then looking into a period of three, four, five years where I think we'll continue to be very strongly cash generative, but we have no debt to buy, to no bond debt to refinance or refund. We'll also have a two-year kind of CapEx holiday through FY 2028 and FY 2029 'cause we're only taking 15 MAX 10. You can take it that there will be a continuation of both dividends and very strong buybacks with our spare cash through FY 2028 and FY 2029, but not this summer. This summer we're using the buyback cash to pay down the last of our bond debt of EUR 1.2 billion, and that gets paid down next week. What do I think of the outlook of our EUR 12- EUR 14 profit per passenger?
+
+Michael O'Leary
+Group CEO
+0:36:09
+
+Frankly, I think it remains unchanged. This is a short-term shock to the system. You know, the war in Iran was somewhat unexpected by the market, certainly the closure of the Straits of Hormuz. This is no different to what we've seen before with 9/11, the Gulf War, the Second Gulf War, the Russian, Russia's illegal invasion of Ukraine. There's been a short-term fuel spike. What happens is a short-term fuel spike, Ryanair's hedging comes to the fore, which protects the vast majority of our earnings during that period of volatility, the situation resolves itself, oil prices refix, everybody goes back to normal again. Will there be a disruption this year? It's too early to say, Muneeba, because we don't know how long the Straits of Hormuz will remain closed.
+
+Michael O'Leary
+Group CEO
+0:36:58
+
+If, as I suspect is likely to be the case, Trump will find some resolution or declare victory by the end of May, when the midterm election hearing kicks off, then I think, you know, I would be more optimistic than our current guidance of unit costs going up by five, you know, mid-single digits this year. I think we'll do better than that, and I think you'll see more confidence return to passengers' bookings and pricing during the summer. But much depends also what happens this winter with our, you know, the flaky competitors around Europe, the ones who are not particularly well-hedged, the ones who are hugely have very large net debt positions.
+
+Michael O'Leary
+Group CEO
+0:37:40
+
+I mean, one of our airline's competitor has recently borrowed EUR 30 million from its local government just to get it through the summer trading period. That loan is soon to be repaid in August. There is no possibility of that loan being repaid in August. I would expect there will be competitor failures in Europe. Who knows, maybe the EUR 12-EUR 14 profit per passenger will actually come forward because there will be even more constrained capacity in Europe and stronger pricing. Like everybody else, we're in a period of short-term period of uncertainty. We hunker down. We trade on the strength of our balance sheet.
+
+Michael O'Leary
+Group CEO
+0:38:20
+
+If you look at our record over the last four years, five years, Muneeba, when we have paid down EUR 4 billion of bond debt. As I look forward into the next four or five years, we have no bond debt to repay, that kind of cash generation will be available. The board has been consistent over the last five years in saying if there is surplus cash, it will be deployed to pay down debt. We now have no more debt to pay, the balance will be returned to shareholders through dividends and share buybacks. I would not expect another short-term buyback. We are very content to finish out the current program, which we expect will happen by sometime mid to end August, before the AGM, then pay down our bond debt.
+
+Michael O'Leary
+Group CEO
+0:39:02
+
+I would look forward into calendar 2027, calendar 2028, the resumption of reasonably strong buyback activity if profitability and cash flows return to some pre-Middle Eastern war norms. Thanks, Muneeba. Next question, please.
+
+Operator
+0:39:21
+
+Thank you. Our next question is from Conor Dwyer from Citi. Please go ahead.
+
+Michael O'Leary
+Group CEO
+0:39:26
+
+Conor, hi.
+
+Conor Dwyer
+Analyst
+0:39:27
+
+Thanks. Morning, Michael. Morning, Neil. First question is on that kind of CapEx point. I think consensus roughly around EUR 2 billion for the coming year. And you're talking a little bit around a CapEx holiday in the years following that, presumably on slower MAX 10 deliveries. I was wondering if you could give any indication on where you expect CapEx to roughly end up at for that kind of level. And then secondly, just around airport charges. At the moment, you know, the last quarter tracks down low single digits and, you know, you continue to kinda churn the network in that sense. I'm wondering how we should kind of expect airport charges to progress over the next kind of two- three years, if indeed, you know, you continue to grow as you're telling the airports you will do so.
+
+Michael O'Leary
+Group CEO
+0:40:12
+
+Okay, Conor, that's an opportunity. Neil, will you take the CapEx question for the next couple of years? I might ask Eddie Wilson, the Ryanair DAC CEO, to comment on the airport charges. Maybe Eddie and Jason McGuinness, airport charges in our short discussions for the next two or three years.
+
+Neil Sorahan
+Group CFO
+0:40:29
+
+Conor, good morning. How are you doing? CapEx, as you said, yeah, roughly about EUR 2 billion in FY 2027, give or take. Could be slightly lower, could be slightly higher, depending on the timing of CapEx on the engine shop. There'll be fairly modest CapEx in there on the engine shops this year. The lion's share to CapEx is maintenance with some deliveries in the spring of next year and some PDPs starting to build up. Similarly, the following year, haven't really gone into detail there. I think I've previously said somewhere between EUR 2.5 billion and EUR 3 billion. I wouldn't be moving hugely away from that. Again, it'd be more skewed towards maintenance than aircraft deliveries.
+
+Neil Sorahan
+Group CFO
+0:41:14
+
+Then we kind of get into the peak of the order and the engine shop CapEx after that, but I, I'm not gonna go into too much detail there at this point in time.
+
+Eddie Wilson
+CEO
+0:41:23
+
+Yeah. Just on,
+
+Conor Dwyer
+Analyst
+0:41:24
+
+Okay, Eddie.
+
+Michael O'Leary
+Group CEO
+0:41:25
+
+Airports-
+
+Conor Dwyer
+Analyst
+0:41:25
+
+Excuse me.
+
+Eddie Wilson
+CEO
+0:41:27
+
+Yeah, just on airport costs.
+
+Conor Dwyer
+Analyst
+0:41:28
+
+Go ahead.
+
+Eddie Wilson
+CEO
+0:41:28
+
+You know, like fairly aggressive targets with the new routes team on what we do in terms of airport costs because we just have this constant battle between regulated airports think they can do what the hell they like. Yeah, on the one side, you've Dublin out there with a EUR 5.6 billion CapEx out there with no extra capacity in it whatsoever. Then you've got, you know, the likes of Aena down there with like EUR 11 billion-plus.
+
+Eddie Wilson
+CEO
+0:41:53
+
+Heading into this very difficult environment whereby, they think they can defy the laws of gravity in terms of attracting traffic. The same thing plays out with the Fraports and VINCI's of this world on that side of the house. On the other side of the house, as Michael has talked about there, you've got municipal tax in Asia, you've got the Swedish tourism tax. You've got all the deals whereby with the smaller airports that actually add up. You've got the long-term, you know, deal that we've completed with MAG in, not just in London where it's the only airport that can grow now without any extra airport infrastructure or air runway infrastructure in the next 10 years.
+
+Eddie Wilson
+CEO
+0:42:35
+
+That's up against our competitors on a, on a significantly higher cost base, that gap is only gonna get wider in London. It's a constant battle there, you know? Like, I'd be trying to keep that flat and nudge it down if I can over the next number of years, but it's a difficult job to do. Nobody's getting any capacity off Ryanair unless our average costs go down, our average costs go down by lowering charges, and airports have to work with us to extract more money from parking or duty free or whatever it is. We've gotta have, you know, sustainable commercial relationships with airports that have to work as hard as us in terms of investing on delivering more passengers, more passengers and growth.
+
+Eddie Wilson
+CEO
+0:43:17
+
+Jason, is there anything you want to add onto that?
+
+Jason McGuinness
+CCO
+0:43:21
+
+Yeah. The other thing I would say, Eddie, is that increasingly the conversations we're having with airports is they're increasingly worried about where the growth is going to come from. There's a huge amount of airport infrastructure coming into Europe over the next five - 10 years, there's very few airlines or indeed only one airline, Ryanair, that would deliver the growth into this new infrastructure. Increasingly the conversations is they're worried about competitor capacity, I think that's where you're seeing us growing this year. We're growing Polish capacity by +22% this year. We're adding 8 aircraft into Poland, open the base in Tirana, four aircraft growing capacity by close to 60%. We will take it out of the likes of Germany and Austria where costs, where they are not being sensible on cost.
+
+Jason McGuinness
+CCO
+0:44:03
+
+The Berlin air-- 7 base aircraft closure being a prime example of somewhere where we've reduced capacity by 50%, and that capacity is migrating to Poland, Albania and Slovakia, and we're gonna continue to do so. I think there's gonna be lots of opportunities across this winter, in terms of capacity-- competitor capacity coming out of the market.
+
+Conor Dwyer
+Analyst
+0:44:26
+
+Wonderful. Thanks very much.
+
+Michael O'Leary
+Group CEO
+0:44:27
+
+Thanks, Jason. Can I just add to that? To give you a flavor, you've an airport like Sweden which, four or five years ago, was nobody wants to fly anymore. We're all listening to Greta Thunberg, flight shaming, et cetera, et cetera. You've a really good new transport minister up there going, "This is stupid. We're losing business." He's abolished the environmental tax and Arlanda has introduced very imaginative traffic growth schemes. Tirana, for example, not only have they abolished the tax, cut ATC fees, and in growth incentive schemes. You contrast that with somewhere like Dublin, just a bunch of idiots. They have a traffic cap that they've been sitting on for the last 20 years.
+
+Michael O'Leary
+Group CEO
+0:45:12
+
+Government promised 18 months ago to remove it as soon as possible. 18 months later, nothing done. Then these dumbos in Dublin have come up with a CapEx program of EUR 5.6 billion for the next five years. 25% of that are about EUR 1.5 billion, is an allowance for inflation and contingencies over the next 5 years. There is a risk that inflation might tick up from 2%-3%, but it's not going to cost them an extra EUR 1.5 billion. That's the kind of messing that these regulated monopoly airports are still engaged with. As we said last week, if that goes ahead, we simply will stop growing overnight in Dublin, and if Ryanair stops growing in Dublin doesn't grow.
+
+Michael O'Leary
+Group CEO
+0:45:53
+
+We have lots of other airports in Sweden and Albania. Slovakia, for example, again, the new government abolished the environmental taxes. They cut ATC fees by nearly 50%, and the airport has significantly reduced its airport fees. We as a result have switched a load of aircraft out of high-cost, high-tax Vienna up the road to Slovakia. In April, Vienna's traffic went down by 8%, and Slovakia recorded a record 170% growth in traffic April over April.
+
+Michael O'Leary
+Group CEO
+0:46:22
+
+I would expect those churn discussions to continue to play out over the next couple of years while morons in Dublin and the likes of them, you know, come up with, you know, game the regulatory system by coming up with these absolutely stupid, you know. For example, they want to spend nearly EUR 1 billion in Dublin putting air bridges on the Ryanair terminal despite the fact that we don't use air bridges. We deliver 80% of the traffic through that terminal, but they have come up with this, what a euphemism for the majority of airlines using Pier 1 want air bridges. They, while forgetting to mention that the airport that delivers it, the airline delivers 80% of the traffic won't use them and won't pay for them.
+
+Michael O'Leary
+Group CEO
+0:47:03
+
+The great advantage we have is the strength of our churn negotiations, and as Eddie said, the strength of our pipeline of 300 aircraft deliveries. No airport in Europe, if it wants to grow, most of them now recognize they need to encourage Ryanair to grow there because we're the ones that'll be deploying 40, 50 aircraft a year. Some of those aircraft deployments will involve taking aircraft out of Dublin and deploying them somewhere else. Unless somebody in the in our useless government eventually pass the legislation abolishing the tax and finally takes a stick to these morons in Dublin Airport who think, you know, they just keep pissing away EUR billions and the customer will pay. They won't. Next question.
+
+Operator
+0:47:48
+
+Thank you. Our next question is from Harry Gowers from JP Morgan. Please go ahead.
+
+Michael O'Leary
+Group CEO
+0:47:53
+
+Harry, hi.
+
+Harry Gowers
+Executive Director of Equity Research
+0:47:55
+
+Hi. Morning, Michael. Morning, Neil. First one, just for the Q1, I wanted to get a little bit more color on what you're seeing exactly in terms of the close-in booking so far. I mean, clearly there's some weakness or simulation needed at some point in the curve. Have you seen more of a positive acceleration or sort of positive inflection in close-in pricing in recent weeks, or has it been quite consistently strong since the start of the crisis? The second one, probably for Neil, just on the ex-fuel unit cost inflation this year. It feels like some of it is maybe just timing related around staff and maintenance, maybe seeing a bigger impact this year than in the outer years.
+
+Harry Gowers
+Executive Director of Equity Research
+0:48:35
+
+Is that kind of fair with the MAX 10s coming next year and that staff pay inflation being front-end loaded? Thanks a lot.
+
+Michael O'Leary
+Group CEO
+0:48:43
+
+Thanks, Harry. Let me give you a flavor of what's going on. If you take, say for example, the month of April was weak. It was artificially weak this year because the first weekend of the April school holidays fell into March. We entered April about 0.2% where we were ahead of target. Despite the fact that Easter was early in April, the close-in bookings still were stronger and stronger. We finished up the month about 0.5% ahead of target. 0.5% is sort of like 100,000 passengers. We finished almost 100,000 passengers ahead of our passenger target for the month of April, that was all thanks to stronger, very strong close-in near-term bookings and stronger pricing.
+
+Michael O'Leary
+Group CEO
+0:49:26
+
+However, if at the moment, if pricing remains weaker out through June, July, August, or we're having to marginally, and I keep emphasizing this, you know, we're having to maybe take 1% or so off the pricing, you know, to keep the further out bookings building. The close-in is strong and the pricing is strong. We still see that finishing up. If that continues through those three months of June, July and August, and I don't think it will because I don't think the Strait of Hormuz, the uncertainty in the Middle East can continue into June, July, August, or Trump will lose not just the House but the Senate as well.
+
+Michael O'Leary
+Group CEO
+0:50:04
+
+If it does continue, then we think pricing moves from being up mid-single digits in those peak summer months to being flattish in those peak summer months. We don't think it goes negative. I can't rule it out either. If there was some, you know, untoward adverse development in the Middle East or the Strait of Hormuz, it, you know, you never say never. I would be much more optimistic that I think we are being conservative in the guidance today and that the outturn will continue to improve and be better, partially because people will inevitably go on holidays one way or the other. I just think they'll holiday in Europe or at European resorts in Portugal, Italy, Spain, Greece, this summer.
+
+Michael O'Leary
+Group CEO
+0:50:43
+
+Many more will fly with us to Turkey, Albania and Morocco because they can avoid Europe's mad ETS taxation by simply flying to neighboring non-EU countries. That will reflect itself by the time we get to the second or first or second quarter numbers in slightly more optimistic tone on volume and pricing. Neil, on the ex-fuel unit cost?
+
+Neil Sorahan
+Group CFO
+0:51:05
+
+Hi, Harry. Yeah, you're bang on the money there. Some of it is timing. Absolutely. If I look at the maintenance side of things, we'll be taking the MAX 10s in, which have got full warranties, which will help offset some of the maintenance. Equally, that hospital visit that we refer to is purely a technical accounting thing where because there's a component that has to be overhauled to 10,000 cycles, we've accelerated a bit of depreciation on that, but we get that back on the back end. On the staffing side, as we said about 18 months ago, we're already recruiting for the MAX 10s coming in.
+
+Neil Sorahan
+Group CFO
+0:51:42
+
+We're taking in more cadets at this point in time so that we're self-sufficient for first officers and indeed then command upgrades to captains when we get to the peak. The, the deals that we're doing, as I said on the prerecorded session on our website this morning, an element of front loading on some of the pay increases, but on the back end, the productivity from the MAX 10 will help offset. Yeah, there's a fair element of timing in there on the numbers.
+
+Michael O'Leary
+Group CEO
+0:52:11
+
+Thanks, Neil. Thanks, Harry. Next question, please.
+
+Operator
+0:52:14
+
+Thank you. Our next question is from Savanthi Syth from Raymond James. Please go ahead.
+
+Michael O'Leary
+Group CEO
+0:52:20
+
+Savanthi, hi.
+
+Savanthi Syth
+Managing Director of Airlines and Advanced Air Mobility
+0:52:23
+
+Hey. For the first question, I was just kind of curious if, you know, for any of the 15 MAX 10s that you expect by next spring, if any of those have, if Boeing has started building them to kind of give you greater confidence of the delivery? Just a second question. You know, now that you've secured that multi-year engine materials agreement with CFM, curious if you have a better idea of, you know, how you expect maintenance costs to be stepping up versus your current contract and just how much of a competitive advantage that might be versus kind of market rates.
+
+Michael O'Leary
+Group CEO
+0:52:56
+
+Thanks, Savi. Again, I'll ask Neil. I'll ask you to take the second half of that question, please. On Boeing, yes, they have started building the MAX 10. They expect by the end of this year they'll have about 40, 30 or 40 MAX 10s built. Some of which our first delivery is due in January of 2027. Some of ours will actually be built before the end of this year. It's all down to certification. Boeing have been making very positive noises on certification. We separately have also been in dialogue with the EASA, the European Safety Agency, who have to certify the aircraft for Europe. They've been very complimentary of the work that Boeing has done.
+
+Michael O'Leary
+Group CEO
+0:53:35
+
+They don't see that there will be any significant delays on the certification, but obviously that depends on Boeing and the FAA. We get a sense also from meeting with the FAA that there's a better relationship there under the current administration, a more supportive FAA. They want to see American manufacturing succeed, and they certainly appear to be more supportive of Boeing and certification. There's always a risk of slip-ups, but I think we take great heart from the, you know, the turnaround that the new team in Boeing, Kelly Ortberg, Stephanie Pope. On our last 29 Gamechanger deliveries, which were delivered to us almost a year late, each one of those aircraft were defect-free and were delivered on average one or two months earlier than the original delayed delivery date.
+
+Michael O'Leary
+Group CEO
+0:54:26
+
+Boeing are doing a really good job on the shop floor in Seattle, also in Wichita, taking clean hulls in Wichita and Seattle, producing clean aircraft, no defects. We're actually pulling some of our engineers back out of Wichita and Seattle now because there's no reason for them. I would be reasonably optimistic that we're going to get those first 15 aircraft in the spring of 2027. That gives us capacity growth to get to about 223 million passengers by FY 2028 and close to 230 by FY 2029. Then we start stepping it up, growing at about 15 million passengers a year through 2030, 2031, 2032, 2033. The 300 million passenger target by 2034 is unchanged.
+
+Michael O'Leary
+Group CEO
+0:55:07
+
+As I said to a reply to one of the other requests, I see no reason to change my somewhat optimistic outlook that profit per passenger will rise towards EUR 12, EUR 14, EUR 15 per passenger over the next four or five years. I believe the current crisis in the Middle East and the Strait of Hormuz will accelerate that profit growth, although it may take a hit this year, but it'll be temporary and short-lived. Thanks, Savi. Neil, on the CFM engines and maintenance.
+
+Neil Sorahan
+Group CFO
+0:55:36
+
+Savi, I think we've discussed this a few times before. I mean, the key benefit of the engine shop is, first and foremost, we'll be able to put the engines through faster through our own shops than anywhere else. That obviously is significant efficiencies and reduces the number of spare engines that we need to hold in the inventory. The key benefit of the in-housing of the engine shop is compared to what we would pay if we replaced what has been an outstanding power-by-the-hour deal for almost 25 years with CFM. If we were to try and renegotiate that deal as is today, you'd be locking in four- 5x the rates that we've been paying.
+
+Neil Sorahan
+Group CFO
+0:56:19
+
+By doing it ourselves, some of this will depend on, you know, the final grant aid and the labor support and everything else that we get, and we're not over the line on that yet, but you're probably looking at somewhere close to 2x by bringing it in-house as opposed to paying 4x-5x by leaving it out with third party. I think that will massively increase the gap between ourselves and our competitors over the next number of years. It also means our competitors are gonna be tied up in engine shops for significantly longer because they lease their fleet, unlike Ryanair, who don't and therefore can get them through a lot quicker by just putting on new parts and moving an engine down the line.
+
+Neil Sorahan
+Group CFO
+0:56:57
+
+It's the operational efficiency, and it's the saving compared to going third party, which is the key benefits from this. I think it's gonna prove to be a very smart decision for Ryanair in years to come.
+
+Michael O'Leary
+Group CEO
+0:57:12
+
+Yeah. Savi, as you're aware, you know, about 85% of the cost of engine maintenance is the spare parts. It's not labor. You look at the 30 spare LEAP-1B deal we announced, we did during the last 12 months. You know, we bought those aircraft from our partners in CFM, you know, at a deeply discounted price. We think we'll be able to repeat that kind of success or buy, during periods of distress, large quantities of spare parts at, you know, at very advantageous discounts for our, both our engine maintenance and for our shareholders. Thanks, Savi. Next question, please.
+
+Operator
+0:57:49
+
+Thank you. Our next question is from Dudley Shanley from Goodbody.
+
+Michael O'Leary
+Group CEO
+0:57:54
+
+Dudley, hi.
+
+Dudley Shanley
+Head of Aviation and Travel research
+0:57:56
+
+Morning, Michael. Just one question from me. Just in the context of the route churn that you've had over the last few years and the capacity constraint that we've discussed a few times, with the current short-term issues in fuel, do you think that that slowing of growth in European aviation space has any of the higher-charging countries starting to think about reversing and, I guess, following that Swedish model that you mentioned earlier? Thank you.
+
+Michael O'Leary
+Group CEO
+0:58:23
+
+Thanks, Dudley. Yes, the answer to that question is yes. For example, the Austrian government at the moment is considering a new budget cycle. They make a budget statement in June. We know already because they've admitted already they're looking at reducing the aviation tax, which is currently EUR 12 per passenger. We've been quite aggressive, forget reducing it. You know, either abolish it or don't waste your time. We will not be going back with any growth to Vienna. All of Vienna's growth is moving up the road to Slovakia, where they are, you know, the new transport minister is delighted with himself, and the record traffic growth that Bratislava Airport is enjoying.
+
+Michael O'Leary
+Group CEO
+0:59:00
+
+In fact, last week, a new, imaginative bus company has now started running 5 daily bus services from the center of Vienna direct to Bratislava Airport, taking advantage of the enormous surge in demand from Viennese citizens and visitors who are now getting there via, you know, the much lower cost of Bratislava Airport. We think that will, though, that trend will continue. We will continue to move aircraft out of countries and airports where taxes or airport fees are high or where, as I said, in Dublin, you have the, you know, government-owned monopolies, you know, operating some 1,880, gaming some dumb regulator looking to double airport fees over the next five years. You know, you would simply growth will come to a shuddering halt.
+
+Michael O'Leary
+Group CEO
+0:59:51
+
+The problem is we have an incompetent government who can't even deliver on their, you know, 18 months later, still haven't delivered on their election promise to abolish the cap at Dublin Airport, quote, as soon as possible. You know, even for the snail pace growth and the snail pace delivery of an Irish government, 18 months does not consist of as soon as possible, particularly when you have a 20-seat majority. We do expect there will be more regions in Italy will reduce taxes and that taxes now are coming down. The big issue here is whether we can persuade the European Commission, led by that dullard, Ursula von der Leyen, who has spent the last two years talking about the competitiveness of European economy, but doing absolutely nothing about it.
+
+Michael O'Leary
+Group CEO
+1:00:37
+
+Can we finally persuade her and the other dumb Europeans that it's time to abolish ETS taxes, which are only applied on European citizens on intra-EU flights.
+
+Michael O'Leary
+Group CEO
+1:00:47
+
+while we exempt the Americans, the Gulf, the Asians, and everybody else traveling to and from Europe? This makes no sense. This year alone, Ryanair passengers will pay EUR 1.4 billion in ETS taxes. It adds about EUR 7 to every ticket. If Ursula von der Leyen is serious about competitiveness, and we don't think she is because frankly she all she does is talk about it and do nothing.
+
+Michael O'Leary
+Group CEO
+1:01:10
+
+Start by abolishing ETS which would reduce airfares in Europe by between EUR 7 and EUR 10 for every single European citizen. We'll keep pushing, I wouldn't expect anything visionary coming out of useless von der Leyen. Next question, please.
+
+Operator
+1:01:29
+
+Thank you. Our next question is from Ruairi Cullinane from RBC. Your line is open. Please go ahead.
+
+Michael O'Leary
+Group CEO
+1:01:35
+
+Ruairi, hi.
+
+Ruairi Cullinane
+Analyst
+1:01:37
+
+Hi. Yeah, good morning. Firstly on hedging, if the war drags on, how long do you expect to hold out before hedging fuel requirements in FY 2028? Secondly, just on the balance sheet, why is EUR 4 billion the right number for a targeted cash balance? Thank you.
+
+Michael O'Leary
+Group CEO
+1:01:57
+
+Thanks, Ruairi. What we do is hedging at the moment, obviously we haven't started. If you look forward or out into, we're 80% hedged for FY 2027. The current rate or the current forward rates over the four quarters of FY 2027, you could be hedging today at about $120 a barrel. Spot last Friday was about, on jet, was about $136 a barrel. Out into FY 2028, hedge, you could hedge today at about $90-$92 a barrel. You know, there's a very deep contango in the market, where the further out you go, the further prices fall away. I would be willing to, I mean, certainly we could remain unhedged into the summer of 2027 up until about September, October of this year.
+
+Michael O'Leary
+Group CEO
+1:02:44
+
+You speak to any expert, nobody really believes that the war in Iran or the Strait of Hormuz will remain closed out to September, October this year. That doesn't rule out the possibility. There's mostly always some possibility. I think the key pressure point as we move through this summer will be the U.S. midterm elections and whether Trump can keep the House and the Senate. I think there will be a change of tone and strategy when it comes to the Middle East and particular gas prices in North America. I would not expect us to sell our hedging into summer 2027 if prices remain elevated like this until about September, October.
+
+Michael O'Leary
+Group CEO
+1:03:23
+
+I think we would still be in a position to do it at, you know, you'd be looking at going up from $67 a barrel now to maybe a price in mid-90s. If that happens, there will be a number of very large airline failures in Europe this autumn. You know, what we would lose on the fuel hedging going forward into summer 2027, we would more than gain on, you know, the likes of some of these airlines in Europe who are, who are unprofitable, and are bad, are poorly hedged. They will simply fail. You look, obviously Spirit is the most glaring example of that here in North America in recent days. Why is $4 billion the right number?
+
+Michael O'Leary
+Group CEO
+1:04:01
+
+EUR 4 billion was the number we went into, you know, where we went into COVID with EUR 4 billion gross cash and EUR 4 billion of gross debt, a zero net debt position. You know, we do operate in a cyclical capital-intensive business. This is a really phenomenal business. It is very profitable. It churns out huge amounts of cash, and we have used that cash to repay EUR 4 billion in bond debt over the last five years. It's also an industry that's very susceptible to external economic shocks like the Gulf War, Russia's invasion of Ukraine, and now you have the, you know, the war in the Middle East and the closure of the Strait of Hormuz. I think we're a brilliant airline. We're clearly a very profitable, very cash productive airline.
+
+Michael O'Leary
+Group CEO
+1:04:45
+
+We're also an airline that is the subject of external shocks that we can do nothing about. We believe that EUR 4 billion is the right kind of number that we should be aiming for. That doesn't mean that if an opportunity came along, we wouldn't let that cash drop down to maybe EUR 2.5 billion, EUR 3 billion. We would if the right opportunity came along. Also, that we wouldn't let it rise from EUR 4 billion to EUR 4.5 billion or EUR 5 billion. EUR 5 billion, we don't need. It's too much. Everything over EUR 4 billion, and we will build ourselves back up to that in the next 12 months, everything over and above that we will be deploying in dividends and shareholder buybacks. Neil, anything you want to add to that EUR 4 billion target?
+
+Neil Sorahan
+Group CFO
+1:05:22
+
+No, I think as you said, COVID is hopefully as bad as it ever gets in here and EUR 4 billion served us very well through that crisis. Equally, a crisis turns up opportunities and I'd hate to be left scrambling and a price taker in the market for a bond or something. It's a good level to be at. I would just add on the hedging side that while we haven't added to the jet, we have been jumping on dollar weakness, which is the other side of the hedging coin, and we've now got 30% of FY 2028 H1 hedged at 1.20 on the euro dollar, which is better than the 1.15 that we have this year.
+
+Neil Sorahan
+Group CFO
+1:05:54
+
+We'll continue to lock on, lock in on dollar weakness and as Michael said, we'll get back to the jet in due course.
+
+Michael O'Leary
+Group CEO
+1:06:04
+
+You should have, I mean, we might update the shareholders where we are on the CapEx dollars, Neil.
+
+Neil Sorahan
+Group CFO
+1:06:09
+
+Yeah
+
+Michael O'Leary
+Group CEO
+1:06:09
+
+on the MAX 10, the firm orders.
+
+Neil Sorahan
+Group CFO
+1:06:11
+
+Again, jumping on days where the dollar weakens. We've now got 60% of the 150 firm orders hedged at just over 1.23 on the euro dollar. We're locking in significant savings there. This is a keenly priced aircraft deal, and in euro terms, we're now locking in cheaper seats, which is good for the CapEx, but also cheaper seats, which is good over a longer period of time for the P&L. Pretty pleased at that. The treasury team remain ready and able to jump on every weakness that we see in the dollar to expand that further.
+
+Michael O'Leary
+Group CEO
+1:06:48
+
+Yeah. You see that also reflected in the lease extensions we're doing on the A320 fleet in the current difficult environment, particularly post the Spirit failure in the U.S. Next question, please.
+
+Operator
+1:06:59
+
+Thank you. Our next question is from Antoine Madre from Bernstein. Your line is now open. Please go ahead.
+
+Michael O'Leary
+Group CEO
+1:07:06
+
+Antoine, hi.
+
+Antoine Madre
+Analyst
+1:07:07
+
+Good morning, everyone. Hi. First, I was wondering with the higher fuel price, is it still profitable to fly the A320ceos, or do you need to think about retiring earlier the fleet? Second, why did your-
+
+Michael O'Leary
+Group CEO
+1:07:20
+
+Sorry. Hang on. Antoine. Sorry. You need to speak into the speaker. It's very hard to hear you there. I didn't hear any of that for the first half of that question, please. Can you repeat?
+
+Antoine Madre
+Analyst
+1:07:33
+
+Okay. Sorry, can you hear me well now?
+
+Michael O'Leary
+Group CEO
+1:07:37
+
+Yes. Yeah, just about.
+
+Antoine Madre
+Analyst
+1:07:39
+
+Okay. Now I was wondering, with higher fuel price, is it still profitable to fly the A320ceos, or do you need to think about retiring earlier the fleet? Second, why did your ancillary revenue per passenger fall in Q4, and what can we expect for full-year FY27 in ancillaries? Thank you.
+
+Michael O'Leary
+Group CEO
+1:08:01
+
+Yeah, Neil, I'll ask you just to comment or maybe Tracey to you the ancillary question. If I've understood the question, Antoine, it is would the higher oil price affect whether we would take the A320ceo or look for A320neos? Is that the question?
+
+Antoine Madre
+Analyst
+1:08:17
+
+No, no. Just if it's still profitable currently to fly the A320ceos-
+
+Neil Sorahan
+Group CFO
+1:08:23
+
+Yeah.
+
+Antoine Madre
+Analyst
+1:08:23
+
+With the higher fuel price.
+
+Neil Sorahan
+Group CFO
+1:08:24
+
+Is he asking should we keep flying the Laudas in the current high fuel environments, the A320s that we have?
+
+Michael O'Leary
+Group CEO
+1:08:31
+
+Yeah
+
+Neil Sorahan
+Group CFO
+1:08:31
+
+The answer is yes.
+
+Michael O'Leary
+Group CEO
+1:08:32
+
+I mean, the answer to that question is yes, if the lease rates are falling. The great joy of the middle of the strike in the Middle East is it's again an opportunity. We're extending these leases, which are coming to end of life. Whereas, you know, a materially reduced monthly lease rates and the monthly lease rentals were already significantly below market. You know, a lot of the lessors of these aircraft, they're coming to the end of life. They have Ryanair on their kind of as a customer.
+
+Michael O'Leary
+Group CEO
+1:09:02
+
+The risk of taking back these aircraft that are getting to end of life and trying to market them somewhere else in the world or just take a, you know, a modest hit on the lease rentals and on the redelivery conditions and extend the deal with the Ryanair Group for another one or two years seems to be attractive. The answer to the question is no, they're not the most fuel efficient aircraft, but if the lease rates are falling, we would always be happy to take advantage of those kind of opportunities. Remember, you know, Antoine, they really only account for 26 aircraft out of a 675 odd aircraft, 650 odd aircraft fleet.
+
+Michael O'Leary
+Group CEO
+1:09:41
+
+Where most of that, significant portion of that fleet now is the Gamechanger, which are offering us 4% more seats and burning 16% less fuel. In actual fact, our fuel consumption on a per passenger basis will continue to modestly decline with the benefit of the Gamechanger, will begin to significantly decline as we move into the MAX 10s in 2027, 2028 and 2029. Neil, will you take the Or Tracey, maybe take the ancillary question, please.
+
+Neil Sorahan
+Group CFO
+1:10:06
+
+Yeah. I'll jump in.
+
+Tracey McCann
+CFO
+1:10:07
+
+Yes. Just on the ancillaries. Yeah.
+
+Michael O'Leary
+Group CEO
+1:10:10
+
+Go ahead.
+
+Tracey McCann
+CFO
+1:10:10
+
+You can probably add a little more.
+
+Michael O'Leary
+Group CEO
+1:10:10
+
+Yeah, Tracey, take it and you.
+
+Tracey McCann
+CFO
+1:10:12
+
+Yeah. We've just seen a small slight dip of about 1% in Q4, I think we have to look at the overall. Over the year we were up 2%. We would hope to see that continue into next year, kind of 1%-2% range.
+
+Neil Sorahan
+Group CFO
+1:10:25
+
+Yeah. I mean, it's not unusual.
+
+Michael O'Leary
+Group CEO
+1:10:28
+
+Above traffic growth.
+
+Neil Sorahan
+Group CFO
+1:10:30
+
+It's not unusual to see a dip in Q4 given that, you know, we had one week of Easter in there, which are pushing people in the dog days of January and then the weeks outside the midterms in February. I wouldn't read anything into that. We guided 2% passenger growth last year. We came in exactly bang on 2%. FY 2027 will be somewhere between 1%-2% per passenger, again, above traffic.
+
+Michael O'Leary
+Group CEO
+1:11:01
+
+Okay. Thanks, Antoine. Next question, please.
+
+Operator
+1:11:04
+
+Our next question comes from Axel Staas from Morgan Stanley. Your line is now open. Please go ahead.
+
+Axel Staas
+Analyst
+1:11:11
+
+Hi. Two questions on my side, please. One a bit more medium-term and one a bit more short-term. On the medium-term one, it's coming back on the commentary on hedging in fiscal year 2028. If I understood correctly, you don't want to hedge anytime soon for fiscal year 2028, but how do you plan to offset that huge pickup in fuel then? Is it just with fares going to next year? How should we look at this? Then short-term, on the salary negotiations, sorry to come back on this, but can you just confirm what percentage of the staff cost base is being renegotiated? Is it fair to assume mid-single digit increase in year one and then low single digit as from year two onwards? Thank you.
+
+Michael O'Leary
+Group CEO
+1:11:51
+
+Thanks, Axel. Sorry, the first half, I mean, I need to give again more color on maybe Darrell Hughes on the salary negotiations. Could you just explain the first part of the hedging? You're talking about if we hedged into FY 2028 at higher prices, how do we think we would pay for that? Is that the question?
+
+Axel Staas
+Analyst
+1:12:11
+
+Start to hedge.
+
+Michael O'Leary
+Group CEO
+1:12:12
+
+Axel?
+
+Axel Staas
+Analyst
+1:12:13
+
+In the coming months. Yeah, can you hear me?
+
+Michael O'Leary
+Group CEO
+1:12:16
+
+Yeah.
+
+Axel Staas
+Analyst
+1:12:17
+
+Sorry. My question was.
+
+Michael O'Leary
+Group CEO
+1:12:19
+
+I think you can take that as the question. Is that right?
+
+Operator
+1:12:21
+
+Go ahead.
+
+Axel Staas
+Analyst
+1:12:21
+
+Yeah, sorry. If you don't start to hedge in the coming months for FY 2028, even using the forward curve, for example, how do you plan to pass on the fuel cost inflation? Is it through pricing? Is it something else that we should be aware of? Thank you.
+
+Michael O'Leary
+Group CEO
+1:12:40
+
+I mean, again, I come back to the point, if the oil prices remain higher for longer through into, for example, say, our fiscal third calendar, the December quarter or the December quarter, if oil prices remain higher into that quarter, then I think you would see us start to put down some hedging into the summer of 2027, so FY 2028, at maybe, take a number, $90, $95, $85 per barrel. Materially higher than this year's oil price. There will, at that point in time, be casualties here in Europe among the European airlines. You know, there are people who are less well I mean, we're 80% hedged out to March 2027. Most of Europe's second-tier airlines are hedged kind of generally out to about October.
+
+Michael O'Leary
+Group CEO
+1:13:25
+
+Some of them, while they claim to be hedged, aren't hedged at all. They have caps and collars. What would happen, I think if there were higher oil prices out into summer of 2028, it is inevitable that the legacy airlines would be bringing in fuel surcharges. I think it's inevitable that there would be far less capacity available in the system, next summer, partly because of failures and partly because capacity simply would be grounded. I would think there'd be a, you know, a significant upward pressure on pricing. I don't expect that to be the outcome.
+
+Michael O'Leary
+Group CEO
+1:13:59
+
+I expect by the time we get to the end of May or June, there will be a, you know, Trump will be declaring victory in the Middle East, the Strait of Hormuz will be reopened, the focus will be over here on the midterm elections in November, and that there will be a much more optimistic environment, political environment here and economic environment as, in relation to oil prices. Maybe Darrell or Eddie, do you want to take the salary negotiation question?
+
+Eddie Wilson
+CEO
+1:14:29
+
+Darrell, go ahead, Darrell. You go first.
+
+Michael O'Leary
+Group CEO
+1:14:34
+
+Darrell O'Brien's dropped off.
+
+Eddie Wilson
+CEO
+1:14:35
+
+Oh, he's dropped off. Okay. Sorry. What you have, like, don't forget, in the existing deals that we have, there are already pay increases built in, you know, for April in any event. You have, you know, there's only three or four.
+
+Michael O'Leary
+Group CEO
+1:14:50
+
+In April 2026 and 2027.
+
+Eddie Wilson
+CEO
+1:14:52
+
+Yeah. They'll go on for the next year. What we did see is that there's some appetite amongst some of the groups to go earlier. We've facilitated that. Like anything that brings having the long-term stability out there, the Italian pilots were one of those groups. We're in active negotiation. The simple answer is 100% of the pilots are covered by pay increases because they either have new deals coming, which will be higher because there'll be an element of front-loading, or the existing ones which run out next April still have had their pay increase in April. That pertains for the cabin crew as well. Would that answers your question?
+
+Michael O'Leary
+Group CEO
+1:15:37
+
+Actually what we're doing here, you know, we're putting in place new five-year pay deals, which will run across a dramatic uptick in productivity, staff productivity coming from the delivery of MAX 10 aircraft, which starts in the spring of 2027, runs out over the next five years, out to 2030, 2031, of the five years of these pay deals. When, you know, our basically captains and cabin crew will be flying 20% more passengers on a per-flight basis and burning 20% less oil. It does make sense from an operating and from an efficiency point of view to share the upside of that with our people by putting in place new five-year pay deals. Now, where there's an element of front-ending, the incentive for the staff is you get the pay increase front-ended.
+
+Michael O'Leary
+Group CEO
+1:16:21
+
+We'll get the productivity gain over the lifetime of that five-year deal. Next question, please.
+
+Operator
+1:16:28
+
+Our next question is from Gerald Khoo from Panmure Liberum. Your line is now open.
+
+Michael O'Leary
+Group CEO
+1:16:33
+
+Gerald, hi.
+
+Operator
+1:16:33
+
+Please go ahead.
+
+Gerald Khoo
+Analyst
+1:16:35
+
+Morning, everyone. Two from me, if I can. Talked a bit about airport charges earlier in the call. I was just wondering whether you could give an indication of the average duration of your airport charges deals. How long are you locking these favorable terms in for? Finally, Michael, in terms of your potential probable contract extension, is there a particular reason why you've landed on four years, and should we expect this to be the final extension?
+
+Michael O'Leary
+Group CEO
+1:17:08
+
+Okay, thanks, Gerald. I mean, very difficult to You know, it really the duration of these airport, or of the airport deals, it very much depends on an airport-by-airport basis. Some of them now run out into 2035, 2036. Particularly, for example, I'd use kind of an example like London Stansted, where they're investing GBP 1 billion extending the terminal facility and growing the capacity from 30 to about 45 million passengers per annum. You know, I would highlight that as They want the security with growth commitments that Ryanair will fill those facilities if they put in those extensions. Stansted are going to grow capacity from 30- 45 million passengers about, you know, 50% growth in capacity for a cost of GBP 1 billion.
+
+Michael O'Leary
+Group CEO
+1:17:56
+
+Meanwhile, Dublin proposed to spend EUR 5.6 billion with no increase in capacity. I mean, you know, EUR 1.5 billion of inflation, EUR 600 million on, you know, vanity sustainability projects, including EUR 7 million planting bloody wildflowers. You know, which could only come about with a kind of government-owned monopoly, pissing away money. The length of the deal typically when we're doing extensions or somebody wants growth, typically it's four-five years. In some cases where they're committing to extensive CapEx on facility enhancement, like in Stansted, like in Bergamo, for example, they run out longer, typically out to 2035, 2034, 2035, 2036. It's horses for courses.
+
+Michael O'Leary
+Group CEO
+1:18:42
+
+What I would say, almost every airport in which we operate, where we have a four or five year deal, they're back to us within two years going, "Can we have another more growth? Can you extend again?" We are, I mean, this is no exaggeration, Jason McGuinness and his team, the new team can barely get in the office doors at the moment with the numbers of airports that are sleeping in our reception area, looking for meetings, looking for growth, partly because they're very worried that some of their existing incumbent carriers who are heavily indebted or less well hedged or don't have fuel hedging in place will not survive or will dramatically cut back on their capacity growth.
+
+Michael O'Leary
+Group CEO
+1:19:23
+
+For example, you know, Bratislava, you know, had, was given, you know, where we're growing very rapidly now, one of our competitors airlines promised to grow from their base from two- five aircraft. Apparently then a week later, they changed their minds and told Bratislava the fifth aircraft isn't coming. Bratislava called us the same morning and said, "There's another spare stand here. Do you wanna put another aircraft in here? We'll give you favorable terms." Don't tell anybody, but I'm coming down to Bratislava next week to announce another aircraft at our base. We'll grow by one more aircraft this way, this year, solely because one of our less competent competitors didn't honor their kind of five aircraft, five aircraft base deal.
+
+Michael O'Leary
+Group CEO
+1:20:09
+
+On my contract, why 2032? This is 2026. 2032 looks like a reasonable extension. I was offering 2030. The board wants 2033. We settled on 2032. They put in, and we're not gonna breach the confidentiality that the board wants to discuss that with some of our larger institutional shareholders. There are very aggressive, and I mean very aggressive, profit and share price targets on the purchase, on the share option purchase agreement. Other than that, I get paid a very modest basic salary and bonus, no pension and no anything else.
+
+Michael O'Leary
+Group CEO
+1:20:54
+
+you know, it has always been my philosophy, you know, I want my remuneration and rewards tied to a very ambitious profit and share price kind of target. At the last time around in 2019, I had to almost double the profits or almost double the share price. And I think shareholders can, you know, you would reasonably assume that the next set of targets are not dissimilar to that. Again, the board wants to brief the main shareholders on that first. Next question, please. Thanks, Charlotte.
+
+Operator
+1:21:29
+
+Thank you. We currently have no other questions, I'll hand back over to Michael O'Leary for closing remarks.
+
+Michael O'Leary
+Group CEO
+1:21:35
+
+Fantastic. Okay. Folks, thank you very much. Again, may I conclude by just reminding everybody, we've had a record year, record traffic, record profits. You know, we have been overtaken by events in the Middle East in the last two months, but I do not expect that that will last very long, maybe another month or two. Then I believe, you know, the Strait of Hormuz will reopen, oil prices will settle down. People will go back to booking with confidence during the peak summer months. Ryanair is incredibly well-positioned with 4% more seats this summer, well controlling remarkable unit cost discipline in a marketplace where none of our competitors, the cost gap between us and our competitors is widening. We are really well hedged out to March 2027. That gives us incredible financial strength.
+
+Michael O'Leary
+Group CEO
+1:22:26
+
+We will pay down the last of our bond debt next week, and we will be essentially debt-free. That puts us in enormously strong position to continue then to grow capacity the next couple of years, take delivery of MAX 10 aircraft that will transform our operating economics because they have 20% more seats that burn 20% less fuel. You guys today can buy all this incredible advantage at, I don't know, EUR 22-EUR 23 a share. I don't wanna hear anybody telling me for the next two or three years, "Oh, I wish we'd bought it the last time there was a dip." Here's the dip. We're buying. We're very happy with our share buyback program. The average cost has dramatically come down over the last two or three months, and for that, we're extremely grateful.
+
+Michael O'Leary
+Group CEO
+1:23:09
+
+We look forward. We have an extensive roadshow with all of the senior managers on the road across Ireland, the U.K., Europe, East Coast and West Coast America. I myself, I'm in New York for the next two days, Chicago on Wednesday, Boston on Thursday. If anybody wants a meeting, if anybody wants, you know, to be reminded of how strong Ryanair's fundamentals are and how profitable and cash generative we are, please ask either Citi, Goodbody or Davy for a meeting. We look forward to meeting you. Other than that, if anybody wants to come to Dublin at some stage over the summer and visit us or see the operation, you're very more than welcome.
+
+Michael O'Leary
+Group CEO
+1:23:46
+
+I believe we're setting off on another five-year period of very strong traffic growth on aircraft that have more seats, that burn less fuel, and they will in turn deliver very strong profit and very strong share price appreciation. With that, thank you very much for joining the call this morning. Look forward to seeing you all the next couple of days. If not, come visit us in Dublin during the summer. Thanks, everybody. Bye-bye.
+
+Operator
+1:24:11
+
+This concludes today's call. Thank you all for joining. You may now disconnect your lines.

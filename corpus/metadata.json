@@ -1,0 +1,72 @@
+[
+  {
+    "file": "costco-q1-fy2026-earnings-call.txt",
+    "company": "Costco",
+    "title": "Q1 2026 Earnings Call",
+    "date": "2025-12-11",
+    "source_url": "https://www.fool.com/earnings/call-transcripts/2025/12/11/costco-cost-q1-2026-earnings-call-transcript/"
+  },
+  {
+    "file": "costco-q2-fy2026-earnings-call.txt",
+    "company": "Costco",
+    "title": "Q2 2026 Earnings",
+    "date": "2026-03-05",
+    "source_url": "https://www.fool.com/earnings/call-transcripts/2026/03/05/costco-cost-q2-2026-earnings-call-transcript/"
+  },
+  {
+    "file": "ryanair-q1-fy2026-earnings-call.txt",
+    "source_url": "https://www.insidermonkey.com/blog/ryanair-holdings-plc-nasdaqryaay-q1-2026-earnings-call-transcript-1572845/",
+    "company": "Ryanair",
+    "title": "Q1 FY2026 earnings call",
+    "date": "2026-07-21"
+  },
+  {
+    "file": "ryanair-q4-fy2026-earnings-call.txt",
+    "source_url": "https://finance.yahoo.com/quote/RY4C.F/earnings/RY4C.F-Q4-2026-earnings_call-535488.html",
+    "company": "Ryanair",
+    "title": "FY2026 full-year earnings call",
+    "date": "2026-05-19"
+  },
+  {
+    "file": "costco-q3-fy2026-earnings-call.txt",
+    "company": "Costco",
+    "title": "Q3 FY2026 earnings call",
+    "date": "2026-05-28",
+    "source_url": "https://www.fool.com/earnings/call-transcripts/2026/05/28/costco-cost-q3-2026-earnings-transcript/"
+  },
+  {
+    "file": "ryanair-q3-fy2026-earnings-call.txt",
+    "source_url": "",
+    "company": "Ryanair",
+    "title": "Q3 FY2026 earnings call",
+    "date": "2026-01-27"
+  },
+  {
+    "file": "ryanair-q3-fy2020-earnings-call.txt",
+    "source_url": "https://www.fool.com/earnings/call-transcripts/2020/02/03/ryanair-holdings-plc-ryaay-q3-2020-earnings-call-t.aspx",
+    "company": "Ryanair",
+    "title": "Q3 FY2020 earnings call (historical)",
+    "date": "2020-02-03"
+  },
+  {
+    "file": "wizzair-q3-fy2026-earnings-call.txt",
+    "source_url": "https://www.investing.com/news/transcripts/earnings-call-transcript-wizz-air-q3-2026-shows-net-loss-improvement-93CH-4481134",
+    "company": "Wizz Air",
+    "title": "Q3 FY2026 earnings call",
+    "date": "2026-01-29"
+  },
+  {
+    "file": "wizzair-q4-fy2026-earnings-call.txt",
+    "url": "https://za.investing.com/news/stock-market-news/earnings-call-transcript-wizz-air-q4-2026-sees-stock-dip-amid-mixed-signals-93CH-4323396",
+    "company": "Wizz Air",
+    "title": "Q4 FY2026 earnings call",
+    "date": "2026-06-11"
+  },
+  {
+    "file": "walmart-q4-fy2026-earnings-call.txt",
+    "source_url": "https://www.fool.com/earnings/call-transcripts/2026/02/19/walmart-wmt-q4-2026-earnings-call-transcript/",
+    "company": "Walmart",
+    "title": "Q4 FY2026 earnings call",
+    "date": "2026-02-19"
+  }
+]

@@ -1,0 +1,7 @@
+backend/library.db
+backend/.venv/
+__pycache__/
+node_modules/
+dist/
+.env
+.zed/

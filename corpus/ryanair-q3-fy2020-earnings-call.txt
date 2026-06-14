@@ -1,0 +1,453 @@
+RYANAIR HOLDINGS PLC (
+RYAAY
++1.57%
+)
+Q3 2020 Earnings Call
+Feb 3, 2020, 5:00 a.m. ET
+
+Contents:
+Prepared Remarks
+Questions and Answers
+Call Participants
+Prepared Remarks:
+Operator
+
+Hello and welcome to the Ryanair Q3 results conference call. [Operator Instructions] Today, I'm pleased to present Michael O'Leary, CEO. Please go ahead with your meeting.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay. Good morning, ladies and gentlemen. You're all welcome to the Ryanair Q3 results conference call. You would have seen this morning, we -- on the website, we listed the Q3 results press release. The slide presentation is there. There is a video MD&A and also the written MD&A. So I'll take all that as read and we'll shoot straight through to questions -- Q&A.
+
+A couple of quick themes, obviously, the headline number is that the Q3 has performed strongly. That mirrors the earnings upgrade that we issued in the first or second week of January. The Q3 profit went from a loss of EUR66 million last year to a profit of EUR88 million this year. Really, most of the impact there was the stronger Christmas and New Year holiday booking period. Forward bookings remained about 1% stronger booked than they were this time last year. Strong ancillary sales continue, thanks to great work at Labs that they're doing on increased personalization and more and more customers continuing to take up optional reserved seat priority boarding services.
+
+Unit costs remained particularly strong, up only 1% in the quarter, despite the fact that we expected to be operating some 20 or 30 MAX aircraft during this quarter. Without those aircraft, which were key to that cost reduction, we still delivered unit cost of up just 1% excluding fuel, which I think is the stellar performance in the quarter, particularly against our -- the peer airlines in Europe. Key as well to that has been a much stronger performance. Our on-time performance has significantly improved. We're typically now averaging 90%, and that is translating into much lower EU 261 claims and complaints.
+
+There is a couple of key issues I know will come up in the Q&A, so I thought I might try and head them off first. On the MAX aircraft, we've now accepted -- we had a meeting with Boeing in Chicago two weeks ago. We now accept it's highly unlikely we will get any of the MAX aircraft in advance of the peak summer months of July and August, and therefore, we deferred the first of our MAX deliveries until September-October at the earliest. Boeing's best guess now is that the MAX will be back -- the grounded MAX in North America will be back flying hopefully by the end of June, early July. But it will take at least another two months for our aircraft, the MAX 200, to be approved and delivered.
+
+Even when it is delivered, I think the delivery rate is going to be slower than historically. Boeing are going to slow down the production rates. They're not going to carry forward defects down to production line, which I think is the right thing to do. We've seen a lot of delivery issues with some of our more recent aircraft. And I think Boeing's focus on quality of the aircraft is the right one, once they've got the MAX back in service. What that means for us is obviously much slower growth in FY '21. We now expect very modest growth through December of 2020. In fact, Lauda will probably account for most of our growth this summer.
+
+It also means we're going to slow down our original kind of growth expectation, which is we would grow to 200 million passengers by FY '24. That now will run one or two years later than that, depending on the timing of deliveries. But for the -- kind of the back of the envelope assumption at the moment is that our deliveries will all move back by at least 12 months. We're originally supposed to take five aircraft in advance of summer ' 19, then 50 aircraft before summer of '20, '21, '22, '23. It's now likely we will only get, we think, 50 aircraft in advance of summer '21, '22, '23, '24, which will mean our 200 million passenger target will now move out 12 to 24 months into FY '25 or FY '26. There is no point in wasting any further time on that issue. We won't have any further color on it until we get the final -- Boeing are able to get the MAX aircraft back in the air, return to service. And we have a firm date for the delivery of the first MAX 200, then we'll sit down with Boeing, redo the schedule -- delivery schedule, based on what they can achieve, and then we will update the market with our traffic growth at that time. But what it means, certainly for next -- this year and next year is slower traffic growth. That's probably good for underlying yields since we are the one who deliver -- we're the airline that grows most and fastest in Europe. And when we're growing slower, there's probably upward momentum on our fares and yields and less capacity pressure in Europe, particularly as you have the other failures, the Thomas Cooks, the Adrias and those, and we think there will be more to come.
+
+I want to touch briefly on the Flybe rescue in the UK, which is a patent breach of state aid rules and competition rules. There are no circumstances under which the UK government should be bailing out what has been a chronically loss-making airline for the last 20 years. It is now owned by a bunch of billionaires, including Branson, Delta, a venture capital company in the US. They bought it for only GBP2 million last year. And if they don't want to put their hands in their pockets and give it a GBP100 [Phonetic] million, which is chump change to these guys, there is no way the UK government should be intervening and lending money to an airline that can't make money because it can't compete in the -- at the regional UK airports with the Ryanairs, easyJets, Wizz, Jet2s and others. This is reminiscent of bailing out British Leyland in the '70s. It was a stupid idea in the 1970s, and it's an equally stupid idea now in the 2020s.
+
+The fact that Virgin and their shareholders appear to be switching the Heathrow slots, the valuable Heathrow slots presumably at no cost into Virgin, Delta and others, while Flybe's valuable Heathrow routes are transferred to Gatwick where they have no connectivity shows that the British government is just being gamed by these billionaires. And if they had brains or balls, they'd tell Branson to go and write the check himself instead of bailing it out themselves. So we will continue to viciously oppose the Flybe state aid anti-competition bailout. It's a disgrace and shouldn't take place.
+
+On Brexit, obviously, they -- Brexit has now happened. Nothing will change until the end of December of this year. Although the mute [Phonetic] music in the background is negative, the British are talking tough about non-alignment and all the rest of it, in which case, that will be a negative certainly for the airline industry and for an agreement, the continuation of the Open Skies regime. I assume, at some time by middle of the year, the British will have to talk somewhat less tough as they don't have much of a negotiating position, but it's an area that I think investors should continue to keep a wary eye on. We'll have much more clarity on it by the time we get to the end of June, which would be the kind of deadline for the British successfully concluding these genius negotiations they're proposing.
+
+Lastly, coronavirus, again, I think it's useful at the moment in that it will help to temper some of the irrational exuberance that is beginning to build in the -- in the airline sector on fares and yields into the summer. We should be cautious. Yes, we've had a very good run through Q3. Q4 looks reasonably OK, although there is no Easter at the end of Q4. Into the summer, I think all the trends are generally positive, but I would say mildly positive. And I know there would be a lot of analysts out there going it will be strongly positive.
+
+There is a risk at the moment that the coronavirus could spread to Europe. We've seen even this morning some people on short-haul flights between Ireland and the UK wearing bloody face masks as if it made any difference to them. And I would just be cautious. Longer term, we don't think the coronavirus will have any impact whatsoever. Our experience with the SARS and the avian bird flu five, six years ago was that actually it was mildly good for the short-haul business here in Europe. More people were likely to holiday in Europe rather than traveling long-haul to Asia, etc, and we would think that will play out again. But we should be wary on the short-term impact.
+
+Other than that, fuel continues to be slightly weaker than normal. We are very pleased to have hedged out our 90% for the next 12 months at just over $60 per barrel. That would be a very significant fuel saving, even allowing for volume growth at ETS next year of something of the order of about EUR150 million. We are beginning to hedge out into FY '22 at the moment at prices that are near around $56, $57 per barrel. I would be generally of the view that fuel is likely to kind of fall further rather than rise, but that can always be overtaken by political considerations. So our focus on the moment and certainly by the time we get to the full year results in May would be to have a modest portion, 30%, 40% of each of the four quarters of FY '22 hedged away. But I wouldn't be in any [Indecipherable] to hedge away 90% because we just need to guard against falling fuel prices.
+
+Other than that, I know everybody will be on the call, please don't ask us the same two stupid questions, what the Q4 yield is going to be, we don't know; and what the summer 2020 yield is, we don't know. We think there is probably modest upside in the yield outlook at the moment, given the capacity constraints. But if there were to be any severe outbreak of coronavirus here around Europe, again, we should be cautious at the moment. If the reality turns out to be better than we expected, then it will translate directly to an improved bottom line, but I don't think -- it's too early in the year for us to be forecasting a better bottom line.
+
+Other than that, we will continue to manage costs closely. I know, based on the published results now, our unit costs are 24% lower on a per-passenger basis than Wizz who claim to have lower cost than us, but then they're clearly mathematically challenged. And we are 44%, on a per-passenger basis, lower than easyJet. And we will continue to use that cost advantage to roll out the successful low fares formula across Europe where nobody else is able to compete with us.
+
+Neil, anything you want to add to that before we open up for Q&A?
+
+Neil Sorahan -- Group Chief Financial Officer
+
+So the only area we didn't cover was the balance sheet, which is in a very good shape. We've returned over EUR440 [Phonetic] million to shareholders through the buyback, the EUR700 million buyback. We're extending that out now to the end of July. And our key focus over the next kind of 12, 18 months will be the repayment of maturing debt. We've got about EUR1.3 billion of debt with coupons around 2% maturing. So we'd strengthen up the balance sheet more, take some of the cost off the P&L, and as Michael said, the cost leadership remains supreme.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Good. Okay, right, let's go to Q&A. And we're going to restrict everybody two questions please.
+
+Questions and Answers:
+Operator
+
+[Operator Instructions] Our first question comes from the line of Daniel Roeska from Bernstein Research. Please go ahead.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Daniel, hi.
+
+Daniel Roeska -- Bernstein Research -- Analyst
+
+Good morning, gentlemen. Firstly, on the delay of the 200 million passenger target, how does that impact your thinking around the EUR2 billion profit goal? Is that still achievable by '24? And what would make up the shortfall? And then secondly, maybe more broadly, not specifically on your capacity, but as you mentioned earlier, slower growth translates into better fares. Once the MAX is back and we're back to normal in the sector, would you want to go back to your old high-growth load-active approach? Or given the slower macro environment, are you actually kind of thinking a little bit differently about growth into the next three to five years possibly this time?
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay. Can I take the second one first? As soon as the MAX is delivered, we'll take as many of them. We'll take 50 in a year. We have no intention of moving away from our load-factor-active, price-passive. We are the dominant -- we're not dominant, but we are certainly head and shoulders above every other airline in Europe. What they -- some of the analysis of this growth omits the relevant fact that actually the MAX 200s will significantly lower our unit cost going forward for the next four or five years and will widen the cost gap between us and our competition. And there is no point in having cost leadership over the competition unless you use it to take more market share and push others out of the way.
+
+I'll give you an example of that, even today, with the announcement that easyJet are withdrawing more capacity from Vienna where the competition led by Lauda is getting a bit too intense for them, that is being replicated all over Europe. I'd draw attention to Wizz's more recent comments where they don't like competing in Central Europe. They want to go off to further east, down into the middle east because Europe is just a market share play. If we look at the market share play, we'll be the ones taking the market share because we have lower costs.
+
+The kind of lazy analysis that we should all just -- Ryanair should just stop growing and we just start making out on higher fares and bigger margins is ultimately doomed to fail because you are inviting somebody else to come in with additional lower capacity and ultimately damage our margins. We will always expand capacity where that capacity will lower our unit cost because if we can lower our unit costs, it gives us a further and enabling advantage over all competition.
+
+I'm not overly wedded to the EUR2 billion profit forecast. It will happen sometime before or after we get 200 million passengers a year, but only in a couple of years where we have reasonably steady-state fuel. The challenge we have -- I mean, I think our -- the steady state of this business should be about EUR10 per passenger net profit. It tends to migrate or move around the base when oil is volatile as it has been for the last two years and there was excess capacity in Europe, mainly from numbnuts like Norwegian expanding heroically and losing money hand over fist. That seems to have been reversed.
+
+In recent quarters, we see Norwegian now reducing capacity by about 25%, which is entirely an intelligent approach to their failed business model. But much more fundamentally, even euro could -- Eurowings, Lufthansa are taking out a lot of short-haul loss-making capacity in the German-Austrian market, and that's something we haven't seen before. The fact that they're closing the seven-aircraft base in Vienna this summer, I think, is a very significant structural shift by Lufthansa, who in the past would have been willing to lose money forever in a day to eliminate competition. And they're beginning to learn you won't eliminate Lauda or Ryanair. We have no great designs on the German market, I hasten to add, but we'll expand there slowly.
+
+But we will hit the EUR2 billion profit target on what year? I'm not that fast [Phonetic]. It will be on whatever year we have a reasonable stability on oil. And it may come sooner rather than later if capacity in Europe continues to be constrained for the next year or two. But the downside of capacity constraint and a more benign yield environment, it would mean that loss-making failures like Flybe and Norwegian and others may survive another year or two. Frankly, I would prefer to have more capacity growth and see them all jump over the cliff, which would be structurally better for the industry as it migrates inexorably toward four, five major players across Europe.
+
+Thanks Daniel. Next question please.
+
+Operator
+
+Next question comes from the line of Jarrod Castle from UBS. Please go ahead.
+
+Jarrod Castle -- UBS -- Analyst
+
+Thank you. Good morning.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Jared, hi.
+
+Jarrod Castle -- UBS -- Analyst
+
+Hi, I've got [Phonetic] two. Staff relationships, can you just talk a little bit about base closures and any outstanding settlements, how the relationships are progressing? And then just secondly, obviously in the video, you alluded to obviously all these carbon taxes. How does Ryanair think about the increase in carbon taxes versus the amount of capacity going into that -- into those markets versus trying to pass some of it onto your customers? So I guess, should we see you move capacity around related to that? Thanks.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay. Staff relations is generally very good. Eddie, Darrell and the team, I think, have done an outstanding job over the last 18 months. We now have CLAs in place in countries like Germany, Ireland. The union withdrew their -- the court claim on Friday. We're in very close -- we are in close dialog with the unions in the UK, with Spain and Portugal, where we're nearly -- I think we're getting close to agreements there. The deals are now done in Italy, in Germany and France. Anywhere else I'm...
+
+Neil Sorahan -- Group Chief Financial Officer
+
+Belgium.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+And Belgium. And yes, there are base closures. But this is a reality for us. It's not because -- we have base closures because we have been -- we're short 55 aircraft from our original plans for the summer 2020. There is no pilot shortage at the moment, nor will there be a foreseeable pilot shortage for next number of years. We are working closely with both the unions and our people at the bases that are being closed in Spain, in Germany, in Scandinavia. We're offering pilots and cabin crew transfers to other bases where we -- if those bases are being closed. So it's very much a voluntary situation. If people don't want to accept a base transfer and want redundancy, then that's fine, they can have redundancy. But we're meeting our legal obligations in all those countries.
+
+And I think the lack of -- I wouldn't want to overplay it. Is everything fantastically warm and friendly? No, but it's very professional. We're dealing with the unions in a very professional manner. And to be fair, in most countries, I think we have moved from being what would have been a very adversarial relationship over the last 30 years into a reasonably professional -- regular meeting, don't necessarily agree on everything, but we find a way through solution with all those issues. And I think you've seen that by the absence of any further labor issues. That's not to say there may not be some outbreak of labor issues somewhere next summer or during peak periods, but as we demonstrated last year when threatened with strikes in the UK and Ireland, we will face those down. We will not change our position.
+
+But given that we are now back into -- I mean, I think the strongest signal I could give you there is, we're back now recruiting cadets. We had a temporary --and we've had to kind of slow down the recruitment and training of pilots simply because of the MAX delays. But we will be one of the few airlines here that has growth coming in the next number of years with 210 MAX aircraft on order. We have promotions, recruitment -- promotions to captaincy coming through. And I would have thought the employment environment as an airline for -- among pilots and cabin crew has never been more favorable toward the airline, whereas in 2017, when you had the likes of Norwegian running around offering everybody stupid contract promises of long-haul, 787s and all the rest of it, it got very tight -- the market very tight there for a period of time.
+
+On the carbon taxes, I think it's something we should be wary about. Over the medium term, carbon taxes won't alter the price advantage or the cost advantage that passengers flying Ryanair have over every other airline competitor. And therefore, not unlike APD in the past or the German taxes, there is a short-term impact where the airlines have to absorb some or all of the tax increase. But over the medium term, the business rights itself. And I think we've had significant success, but I'd be more optimistic in heading off a lot of carbon taxes. The new EU Commission was very strong on taxing aviation. I think governments around Europe now, particularly, those who are heavily reliant on tourism, the Spanish, the Portuguese, the Maltese, the Cypriots, the Irish, for example, are now much more nuanced in -- we're not having kind of a Dutch or Belgian tax on aviation when their aviation is a tiny proportion of their GNP, whereas the more peripheral countries, certainly in Eastern Europe, the Spanish, the Portuguese, the Italians are now much more wary, well hang on, we want to see improvements in emissions and carbon reduction, but simply taxing air travel will do untold damage to their tourism industry. And Ryanair has been very much to the fore of that. And we put the environmental policies front and center. People switching to flying Ryanair are cutting their emissions by up to 50% if they're switching off legacy carriers in Europe, particularly on short-haul. And I think in -- even consumers are becoming more educated that actually flying on low-cost carriers with high load factors and high seat density is the more environmental way to travel. Business is bad and first is worst in terms of travel when it comes to emissions. And I think that message is getting through.
+
+So we certainly should be wary in the short term of carbon taxes. But maybe over the medium term, I think it will have no impact. I think it won't impact the cost or price advantage we have against every other airline in Europe, and that is a structural advantage that many analysts keep forgetting about. I don't think ultimately it will affect our growth or our profitability.
+
+Jarrod Castle -- UBS -- Analyst
+
+Thanks Michael.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Thanks. Next question please.
+
+Operator
+
+Next question comes from the line of Mark Simpson from Goodbody. Please go ahead.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Mark, good morning.
+
+Mark Simpson -- Goodbody Stockbrokers -- Analyst
+
+Yeah, morning. A couple of things. I wonder if you could have an update on the capex guidance, given the stopping of further PDPs. Ancillary, obviously, we're analyzing some of the policy changes coming into -- through the last quarter. Can you give us an idea of yield management success for the ancillary? What's the kind of run rate we can think about going forward once those changes have happened? And if I can sneak a last one in, you've talked about 50 MAX as the maximum in a year. You did change your schedule on the last financial reporting accounts, where you were suggesting maybe 60 in FY '21 and 57 in '22. I'm just wondering if that 50 cap you're talking about now is a reflection more of Boeing issues rather than your capacity.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Yeah, thanks. I'll take the last two first, and then, Neil, ask you to just update on capex. The 50 MAX is more a reflection I think now of the Boeing capacity to deliver. It's also -- Boeing at one stage wanted to deliver us 90 aircraft next winter. So we said, look, forget it. We're not taking that kind of growth in an airline that has sort of 550 aircraft. It's too much and we don't think it'd be a safe thing to do. I think 50 is a reasonable estimate. It also kind of has kind of a practicality in that. We just rolled back our order by 12 months.
+
+If you take the combination of the backlog of aircraft that Boeing have to deliver, which is about 450, 500 planes, 20 of those are ours. But then, their policy -- the policy of the new management team is that instead of carrying defects down along the production line, they have stopped the production line and fixed all defects where they identified them, which I think is much more -- a better or a higher quality way of producing the aircraft. We don't see them returning to producing 55, 52 or 56 aircraft a month for 12 or 24 months after they start production. So once they get the airplane back in the year, their next challenge is going to be getting all the grounded aircraft up in the year, then getting the 500 aircraft [Phonetic] backlog delivered, then restarting the production line, which will be lumpy and bumpy.
+
+So I think we will do well to get 50 aircraft in the -- in time for summer of '21 and for summer of '22. Now thereafter, I probably do want to stagger the growth ourselves. So it's a mix of both. It's -- generally, in the early year or two, it's Boeing-related, and then in the later year or two, it's -- we don't want to be growing at kind of breakneck speed ourselves because as Europe is consolidating, there aren't that many more opportunities for like Vienna came up last year where there's a large airport with a significant gap in slots. And I think that kind of more controlled growth going forward -- and then I would -- remember that of the 50 aircraft we would take in '23, '24, '25, probably only half of those would be for organic growth. At that stage, we'll start taking out some of our 20-year-old or older NGs and selling them into cargo conversion programs.
+
+So we are coming to the stage I think over the next number of years where instead of growing at 8% or 9% per year, because it's a land grab and we want to make sure we grab all the land, I think you will see us grow at a slower more controlled maybe 4% maybe 5% a year.
+
+On the ancillary yield management phase, yeah, that continues. I think we'll give you more of an update on that on the full year when we're on the results road show in front of each one of you. Clearly, we expect the rate of ancillary revenue growth to slow down now, as we begin to lap some of these changes this time last year. But there is more there in terms of the yield management like [Phonetic] some pricing variations as we identified how -- what customer behavior is like, and that's why the ancillary revenue line in Q3 has been a bit stronger than we -- than the market expected because the yield management is working well, where we've begun to lap the introduction of some of these changes. But I wouldn't want to give any more detail on that today. We'll do it on the full year results call.
+
+Neil, do you want to update on capex, please?
+
+Neil Sorahan -- Group Chief Financial Officer
+
+Yeah, there's not an awful lot to update, Mark. I'm a little reluctant to put numbers out there at the moment, given that we haven't got a firm delivery schedule from Boeing. We will be getting into peak capex over the next kind of 12, 18 months where we'd see somewhere between EUR1.8 billion and EUR2 billion. But I really -- I'm not going to break it out at this stage until we got firmer numbers and Boeing will be ramping up their pre-delivery program. We haven't paid any PDPs in well over a year at this point in time. So they will also start to get moving once the aircraft start to deliver. So a bit like the ancillaries, I'd hope to be able to give you a lot more detail when we see you in May.
+
+Mark Simpson -- Goodbody Stockbrokers -- Analyst
+
+Yeah, fair enough.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Thank you. Okay, next question please.
+
+Operator
+
+The next question comes from the line of Stephen Furlong from Davy. Please go ahead.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Stephen, Hi.
+
+Stephen Furlong -- Davy Stockbrokers -- Analyst
+
+Yeah, hi, Michael. So can you just talk about the Group airlines and maybe just talk about Buzz because I know you had referenced that you're expanding outside of Poland to Prague and Budapest. And secondly, just go back and talk about Lauda expanding in Vienna and Zadar, are you happy with the progress there? I know there's a lot of overcapacity in the market or have been in weak fares. Thanks.
+
+Mark Simpson -- Goodbody Stockbrokers -- Analyst
+
+I think so. I think Buzz has grown faster than we had originally anticipated. There's is a very good management team there in Buzz, ably supported. Juliusz Komorek, who is our Head of Regulatory, is also the Chairman of Buzz. A, they have a clean sheet of paper and they've hit the ground running. The charter operation in Poland is doing well. It has -- in fact, it's a bit constrained this year. It operates seven aircraft this year. We'd probably expand that up to about 10 aircraft next year. And it is very nice piece of business that makes nice profit.
+
+Buzz is expanding, though. What we did last year is, it took overall the Ryanair bases in Poland. It's now expanding to take over the Ryanair bases in the other Central European economies, mainly because we can move those pilots and off -- remember our -- 127B, this problem we've always had with the Irish tax on pilots flying Irish registered aircraft. By moving these aircraft out of Irish AOC and into the Polish AOC or the Maltese AOC, they move now to paying local taxes in the countries in which they live, and that's part of our commitment in the union negotiations in countries like Italy and say -- Italy, Germany and Spain with Malta. But it's going well. They are -- above all, so they're doing a very good job in Buzz as they are in Malta Air.
+
+Lauda, to be fair, they're doing a good job on the airline side. By any commercial measure, Lauda is doing very well. Load factor is running at 94%. High on-time performance. We've restructured the aircraft leasing costs this year. We were very fortunate, I think, in the last year to be able to expand the fleet with least A320s, and there is a sweet spot in the market at the moment for secondhand leased COs [Phonetic] which are a bit -- are available at terrific value like $170,000, $180,000 a month on a lease basis.
+
+The only challenge we face with Lauda is twofold: one, we're competing in the German-Austrian market where Lufthansa certainly last year were using the Eurowings subsidiary to be low-cost [Indecipherable] pricing in the German and the Austrian marketplace. We will live with that if that's -- the only reason that Laudamotion is losing money is because the fares are significantly lower than they had previously been or than we had budgeted. But Vienna is filling up. Vienna, now this summer -- the other issue with Lauda is, we took the strategic decision last year, let's double up, accelerate the growth, even if it means losing money. And by doing that, Lauda this year will grow -- it's grown from eight aircraft in Vienna last summer to 12 this winter. But it will have 18 -- 19 aircraft in Vienna this summer. It will be the clear Number 2 airline in Vienna behind Austrian, about twice the size of Wizz. LEVEL have essentially withdrawn from Vienna. easyJet are well on their way to withdrawing and said they reduced two more -- closed two more routes this morning, Vienna and one of the Italian destinies, I think Rome or Milan. But as a result, this summer, Vienna will effectively be full. It's now slot blocked mornings and evenings. And I think Lauda will over the next year or two settle down. Pricing will -- kind of will come back up, particularly as Eurowings has withdrawn their seven aircraft from the Vienna market.
+
+So we look at Lauda as being a structural investment in a very significant presence in the Vienna market. We're the Number 2 airline in Vienna. Within about five years, I think it will overtake Austrian Airlines and carry more than Austrian Airlines' 14 [Phonetic] million passengers. They won't all be in the Austrian market. And it is successfully opening a new base in Palma. This summer, they'd be up to eight aircraft. And in Zadar, which was a Ryanair base, it will open up and operate. We're looking for new base opportunities at Lauda in the next year or two to spread our dependence slightly away from Vienna and Stuttgart and Dusseldorf. But it's been disappointing from a financial point of view, but it's an investment in a structurally, I think, important market in a structurally important country. And by growing aggressively, we have kind of closed out that opportunity to Wizz, to LEVEL, to easyJet, who were all talking of Vienna 12, 24 months ago and now no longer do.
+
+Malta is growing strongly. It will be up to about 120 aircraft this summer, and again, primarily because we've moved aircraft off the Irish register onto the Maltese register, which allows all the German pilots and cabin crew, the Italian pilots and cabin crew to now paid their taxes in Germany and in Italy instead of in Ireland, which was very much one of the key demands that the unions were making in our negotiations with those. It means there would be less taxes paid here in Ireland, but that was an inevitable byproduct of the government's refusal to alter Section 127B, which only affected Ryanair because we are the only airline with bases all over Europe on an Irish AOC. It's regrettable, but that's -- nevertheless, it was the choice of the Irish government. So they're going well, and we would expect them to continue to grow over the next year or two.
+
+Stephen Furlong -- Davy Stockbrokers -- Analyst
+
+Okay. That's great, Michael. Thank you.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Thanks Stephen. Next question please.
+
+Operator
+
+And the next question comes from the line of Jaime Rowbotham from Deutsche Bank. Please go ahead.
+
+Jaime Rowbotham -- Deutsche Bank -- Analyst
+
+Morning, gents. Two from me. First would be to just challenge you a little bit on the guidance for this year, which does seem conservative. I know you don't want to commit to what 4Q fares will be and I know it won't be as easy to progress ancillaries as much post the anniversary of the bag policy change. But with fares tracking up 9% in Q3 and that saw a very soft comparative on fares in Q4, something north of 4% on full year rev per seat might seem rather likely. And if you could also comment on ex-fuel unit costs, it would be good to know if there's anything in terms of phasing that might make a repeat of the plus 1% in Q3 hard to replicate somehow.
+
+Second one was just on the balance sheet. Neil, in terms of the focus on reducing debt with expensive historic interest rates after the current share buyback program, presumably, we should think about you refinancing that debt at better rates and continuing to use surplus gross cash for buybacks or special divis. Given that even with the eventual 737 MAX capex to assume no releveraging, I would have thought to see the Group quite quickly moving into net cash, which is surely not that efficient. Thanks.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay, thanks for the question. Look, the guidance on Q4 -- we were surprised ourselves by the strength of the close-in bookings, and it was particularly a phenomenon over the Christmas and the New Year holiday period. We don't see that translating or being as strong again through the back end of February -- the back end of January, mid-February into March. March doesn't have any Easter in it. This year, Easter is in the middle of April. So I think we should continue to be cautious. I don't see -- we've already upgraded earnings from a range of EUR800 million to EUR900 million, to EUR950 million to EUR1,050 million. At the moment, we're tracking bang in the middle of that figure. Now, very little you might move it up toward the upper end of the range. But very little in terms of coronavirus and security events somewhere in Europe would move it toward the lower end of that range. So this is a year for caution. I know -- I think our focus today should not be on what the Q4 fares and yields are going to be. It's what the Q1 and Q2 fares and yields are going to be next summer. And honestly, we haven't a clue. But I think it's reasonable to assume that the reasonably benign capacity environment will continue to translate into modestly rising airfares into the first two quarters of next year. Could they rise by more than that? Yes, they could. We could have a bumper year next year, but that's certainly not built into any of our forecast. And this is the airline industry. Just when you think is going well, there's always some shit [Indecipherable] depends or we get visited by some kind of an unforeseen event. So, no, we're not going to give you any kind of more optimistic guidance on Q4. Everything we see at the moment shows us coming in at the midpoint of that range, which is a significant growth in profitability from last year's, even allowing for the fact that Lauda -- the losses in Lauda are higher and we've had to step up the Lauda -- the losses in Lauda as well.
+
+Ex-fuel unit costs, again, we think we're still going to be up 2% on the full year. We don't have -- and that's terrific performance. A large proportion of that cost performance was going to be -- was predicated on taking 20, 30 MAX aircraft. We have none of them and yet we're still able to deliver that kind of unit cost performance. And I would contrast that with, for example, easyJet, last week, unit costs up 4%. Because it's a usual thing with easyJet, we don't mind the cost increase, just look to the fares or the big data capture or some other distraction from the fact that they can't control costs. In Ryanair, we control costs. This was the year where we've had a flow-through of all very significant labor cost increases, big provision on the -- four additional handling to improve resilience. We've lost -- the MAX aircraft haven't come through. We've had higher maintenance on the extending out the older aircraft or postponing the aircraft delays. And you take -- we would take all that and we're still able to deliver a 2% unit cost increase. I think it's a very creditable performance in a difficult year for all airlines. And next year, we know that fuel is going to kick in a significant saving already because we've hedged it away.
+
+On the balance sheet, Neil can speak for himself, but look, on the balance sheet, there won't be another share buyback after this one for the next 12 months. We've EUR1.3 billion in debt to repay. That debt is priced at around 2%. It will have significant impact on our earnings if we repay that debt. If we don't repay that debt, we are sitting there with substantial surplus cash and we -- where I have no use for that substantial surplus cash and I would rather be paying down debt. I don't want to be soaked into the situation. All companies, once they start raising bond money or they just start replacing one bond with the other bond, the debt never gets paid back. Ultimately, I would like just to be conservative, pay back the debt. We own all of our fleet of aircraft and we will still be generating very significant cash to our annual cash flows. And who's to say that we won't be -- shouldn't try to be debt free in the next four or five years, which will make us not alone we have the one airline in Europe with a huge cost advantage, but we'll also be the one debt-free airline in Europe, which will make us an even stronger competitor to everybody else.
+
+Neil, you want the balance sheet and paydown of debt?
+
+Neil Sorahan -- Group Chief Financial Officer
+
+Yeah, I think you covered it well there, Michael. We already raised some money this year at very cheap levels, 0.65% unsecured for EUR750 million. We don't have the need to raise more or refinance the bonds into next year. Our working assumption with peak capex is that we will also pay down the first maturing bond in June '21. If we decide to go back at some stage to refinance, it will be at a time of our choosing when it's just too attractive to say no. But at the moment, taking 2% interest rates off the P&L makes a lot of sense and strengthening of the balance sheet gives us more flexibility in what we do.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Thanks Neil. Next question, please.
+
+Operator
+
+The next question comes from the line of Neil Glynn from Credit Suisse. Please go ahead.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Neil, hi.
+
+Neil Glynn -- Credit Suisse -- Analyst
+
+Hi, good morning. Two from me then, please. First, Michael, just in terms of the Q&A on one of the videos this morning, you talked about your four key areas of focus over the medium term. And I wanted to just touch on -- you mentioned management development. And obviously, with the individual operating companies developing under your ultimate stewardship, just interested in terms of how that evolves over the medium term. What would represent success for you in terms of how you develop as the management teams of each of those businesses? Then second question, with respect to the MAX situation and the potential for compensation, just interested in your preferences. I know things are evolving. But would you prefer cash as a compensation or a discount adjustment to the current order, or would you prefer that to be taken care of whenever the next order comes?
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay. The management development, what we're trying to do -- I think to be fair, I admire what really Walsh did over a number of years in IAG. We set up the same type of weekly management media [Phonetic] groups meeting structure now where the CEOs of the individual airlines' meet with me, the head of regulatory and the group finance function. That is, I think, resulting in much more an integrated approach among each of the airlines, drawing on who could deliver best. For example, Ryanair is currently doing -- providing the ops and crew control services for Lauda, but that would move to Buzz and Warsaw in about March of this year because they have lower-cost labor and a better supply of it in Warsaw. And it's easier for them where they're currently managing 50 of their own aircraft to take on another 50 from Lauda and reduce some of the dependence we have here on ops here. So what would I think would be success? I think we'd be -- what I would gauge to be success in that is that replicating the Ryanair formula in the other airlines over the next year or two, but beginning then to have seen more management development. I'd like to see Polish people coming and taking up middle management positions here in Dublin. The same thing, Irish people go and take middle management positions in Austria, so Austrians moving across to Warsaw and to Malta, so much more kind of cross-fertilization within the middle management, because it gives us scope for more promotion of kind of our graduate development program coming through. One of the challenges we've always faced here in Ryanair is a very settled senior management team. So we don't have much kind of promotional opportunities where I think it's much easier to give someone cut their teeth, if we think there's somebody good in operations, send him over to -- if there is a vacancy at the moment for a Director of Operations slot in Lauda, send somebody down there for a year or two, let him be the Director of Operations there and then he becomes a much more -- he or she becomes a much more polished potential candidate for a Director of Operations slot here in Dublin. So I'd like to see that management development and more and more and more mobility between the middle management positions.
+
+On the MAX situation, again, we're not -- I wouldn't be wedded to one thing or the other. The issue -- and I don't want to kind of -- I've got to be careful about what I say here, the discussions with Boeing do not just surround compensation for our lost traffic, lost passengers, lost ancillary revenues. There's also -- clearly, the MAX has suffered a significant reputational hit as well. There is no doubt we would have passengers who will be nervous to fly on the MAX when we do take delivery of the aircraft, despite the fact that we, our pilots, myself, anybody else, we all believe it's a great aircraft and it will transform Rainier for the next five or 10 years, and once is delivered, it will be as successful, for example, as the 787 was once it was back and delivered, and after the grounding with the lithium-ion batteries. So I think the general discussions -- and we can't finalize numbers until, again, we have a confirmed delivery date for our MAX 200s and a revised delivery plan over a four, five-year period. But the general tenure of it will be, we would expect Boeing to reimburse us the direct costs in sort of FY '20 and FY '21 of lost traffic, lost revenues, some of the cost cuts or savings we would have made if we had delivered the MAX on time, but much more of our focus would be on repricing the deliveries so that I think there would have to be a repriced deliveries of the new order to reflect the reputational damage going forward. That is where I see the competition -- compensation discussions moving.
+
+And then, we are already in discussions with Boeing about -- we have an offer on the table with them for an order for new MAX 10s, which is the 230 seat aircraft. To be fair to them, I don't think -- the new management team is not yet in a position to be able to talk to us about a new order. We understand that, but we have the offering and we expect to be at the head of the queue once they get their kind of heads around looking at the delivery profile. There is I think a concern about the Boeing short-haul aircraft at the moment. And I think the kind of key critical issues for the new management team at Boeing is: one, get the return to service done; two, get the backlog of aircraft deliveries out of the way; three, get the production back up and running and running well and delivering a reasonable quantum of aircraft in a monthly basis; and four, let's start signing up orders for new aircraft and responding back -- Airbus have had now a 12 and 18 month kind of lead over Boeing in terms of aircraft orders. And I think the new management team at Boeing need to be capturing back that lead, and the starting point should be their bigger existing customers like Southwest and Ryanair, which would be one and two in the world. So really, we're not that focused so much on compensation. But certainly, we will be -- we expect to reprice the 200 order we already have and we would expect to put in place or agree a deal with Boeing on new aircraft pretty soon after the return to service kind of has been resolved.
+
+Neil Glynn -- Credit Suisse -- Analyst
+
+Great. Thank you, Michael.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay, thanks for that. Next question please.
+
+Operator
+
+The next question comes from the line of Savanthi Syth from Raymond James. Please go ahead.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Savanthi, hi, how are you?
+
+Savanthi Syth -- Raymond James -- Analyst
+
+Hey, good morning. Good. On the MAX, just on the training side, first question was just, you have one sim. I'm guessing you're going to plan on training pilots in the bases the MAXs are going, so maybe 500, 600 pilots for next summer. Just kind of curious as to just your thought process on if that sim training is going to be maybe incremental cost pressures early on next year and just how you're thinking about what that new sim training means to kind of [Technical Issues] thinking about increasing the MAX. And then just the second question, a follow-up on Lauda, how do you see Lauda's kind of growth in passengers over the next few years? Thanks.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay, thanks for that. On the sim training, we have two MAX simulators already in situ in Stansted. A third one is due for delivery in June. The fact that the first of our deliveries has now been postponed back to September, October means we are in a pretty luxurious position in that we have plenty of time to train MAX pilots going forward. There is still kind of a debate, though, it's not clarified yet. I think if the -- on the return to service, at the moment, it looks like that pilots flying the MAX will need, if you like, an initial simulator session on the MAX simulators. But thereafter, the recurrent training can be done either on MAX on NG simulators, and that's critical. We do not want to have a two-aircraft fleet here. What is -- but to be fair to Boeing, they're very much of the same view. Once the initial training has been done on the MAX simulator, recurrent training can be done on either MAX or NGs, and that's critical because we don't mind training everybody initially on the MAX simulator, but on an ongoing basis, we need them to be able to fly NGs and MAX aircraft. But with a delivery starting point of September-October for 200 deliveries, we have no issues with MAX training. We have two right -- the three simulators in June.
+
+On Lauda, our general profile at the moment, if it'll do 6.5 million passengers this year, it will go close to 10 million passengers next year to FY -- probably more likely 9 million, 9.5 million passengers into FY '21. And thereafter, again, because of aircraft uncertainty, I think we're looking at maybe kind of 10% growth a year over a four or five-year basis, so maybe at 1 million passengers a year at new bases outside of -- Vienna would be full next year. So there won't be any more growth in Vienna. We like that they -- that we don't plan additional growth in Dusseldorf or Stuttgart, again, until the German market kind of settles down. But we would like to see more developments -- the Palma base will grow, Zadar hopefully will grow with the summer base. We're looking at the possibility of a Lauda base somewhere in -- maybe in Spain or in Italy and alternatively something in Central Eastern Europe. We would like to see the Lauda footprint of bases kind of expand slightly outside of Austria and Germany. But that again depends on the availability of cheap secondhand Airbus aircraft, and that market has tightened significantly in the last 12 months with the MAX delivery delay [Phonetic]. We would expect further opportunities to open up, particularly on good secondhand COs once the max deliveries backlog has been addressed and there is reasonable kind of capacity growth across certainly Europe and the world. But that is probably six, nine months away.
+
+So very strong growth in Lauda this year. That's partly why there are more losses in Lauda than we had originally forecast, because we're being very aggressive with the growth in that marketplace. But as a result of that, we will have closed up all the slots in Vienna to -- Wizz I think were completing last week, they cannot get slots in Vienna, and that's essentially because we have then mall now, and we will have a position of significant strength in Vienna where Wizz, which is unable to compete with us on cost, will continue to be unable to compete with us on cost. That would leave us I think competing on very favorable terms against Austrian Airways in Vienna, whose cost base is probably two or three times higher than that of Lauda and I think over the medium term would make Lauda a reasonable prospect for modest growth but significant profitability going forward.
+
+Savanthi Syth -- Raymond James -- Analyst
+
+It's helpful. Thanks Michael.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Thank you. Next question please.
+
+Operator
+
+The next question comes from the line of Alex Paterson from Peel Hunt. Please go ahead.
+
+Alex Paterson -- Peel Hunt -- Analyst
+
+Good morning, everyone.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Alex, hi.
+
+Alex Paterson -- Peel Hunt -- Analyst
+
+You've talked a lot about -- or a bit about taxes. Do you have a view on whether the fuel duty exemption will be removed in the EU? And if it was, would you look to pass it on to passengers in its entirety?
+
+Michael O'Leary -- Group Chief Executive Officer
+
+I think it's unlikely that it's going to be removed in its entirety because it's almost impossible to ensure a level playing field across Europe. That's why the fuel duty exemption there already exists. I think it's much more likely that Europe will tackle it from an environmental tax, which again -- but we raised it -- we already have the ETS, emissions trading scheme, which is, if you like, the fuel tax. We have APD in the UK. We have the equivalent in Germany. This year, we paid EUR640 million in fuel environmental taxes, more than 10% of the air fare paid across all traffic. I think it'll be very difficult for Europe to come up with an exemption -- or to remove the exemption on fuel duties. But that's not to say they will try. Certainly, countries at the periphery, Spain and Portugal, the tourist-based countries have no desire to see that kind of taxation. And the Irish tried it 10 years ago with that EUR10 environmental tax or travel tax here during the teeth of the recession and its all air traffic collapsed by 50% within two years. But I think the risk is in the short term more environmental taxes, but probably more likely around the center, economies like Germany, the Dutch, the Belgians, to a lesser extent, the French, and not having any impact on the environment or anything else. But they are economies that have very small air travel segments. The Dutch are already talking about a travel tax, but of course, exempting all of KLM's connecting traffic across Schiphol, which accounts for probably 80% of KLM's traffic. There isn't a big domestic flight schedule in Holland anyway. So it's an air travel tax in name rather than anything else. It's also a massive hidden state subsidy to the likes of KLM where easyJet and Ryanair or the people doing short-haul point to point flights into Schiphol would have to pay this environmental tax. But of course, KLM would have an exemption because most of their traffic is connecting. So I think the answer to the question is, I don't think there's going to be a change in the fuel taxes, but the risk is on the environmental taxes.
+
+Juliusz, anything you want to add on that in terms of an EU policy?
+
+Juliusz Komorek -- Group Chief Legal and Regulatory Officer; Company Secretary
+
+Just to summarize, I think where the risk is a further tightening of the EU ETS for aviation over the next few years and new or increased national taxes. An example of it is in Austria, where I think the new government intends to increase the tax subject to going through the legislative process. I do not, at the moment, see a significant risk of an EUwide tax on air travel or the removal of the exemption on tax on fuel.
+
+Alex Paterson -- Peel Hunt -- Analyst
+
+Thank you.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay, thanks Juliusz. Next question please.
+
+Operator
+
+The next question comes from the line of Johannes Braun from Mainfirst. Please go ahead.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Johannes, hi.
+
+Johannes Braun -- Ryanair Holdings plc -- Mainfirst
+
+Yeah, hi, good morning. Two questions from my side as well. Back to Lauda, just a more general question. Lauda [Phonetic] has now been an underperformer for quite some time and you explained why that is. But still it has I think the highest cost now in the Group and the lowest yields at the same time. So shouldn't you rather shrink that business into elsewhere where profits are higher? That's the first question. And secondly, just an accounting question, I guess, for Neil. In your cash flow statement, the item trade payables literally exploded by EUR1 billion compared to this time last year. And this obviously boosted free cash flow and thus lead to your solid net debt performance. Can you just explain why that it is?
+
+Neil Sorahan -- Group Chief Financial Officer
+
+Sure. Mike, I will maybe take that one first.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Yeah, go ahead [Phonetic] with PDPs.
+
+Neil Sorahan -- Group Chief Financial Officer
+
+Yeah, it's the Boeing PDPs. So effectively, while you can see the capex of EUR1.4 billion, there's an offset there on the trade payables because we're not paying pre-delivery payments out the door. That will change as soon as the deliveries start to come into the fleet.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay. And on the first part of the question, you're correct in your analysis, Lauda does have the highest unit costs and the lowest yields in the Group. I believe, though, the yields are a temporary phenomenon as a result of below-cost selling, mainly by the Lufthansa subsidiaries in Austria and in Germany. The yields out of Palma are quite strong. I think the yields -- once the capacity growth has tapered off, which it will do in summer of 2020, you're then into a much more steady-state capacity environment in both Dusseldorf, Stuttgart and in Vienna. And I think you will see a very significant rise in average yields, certainly out of Vienna, once the heroic kind of growth has tapered off. And I think the very fact that you have somebody like Eurowings withdrawing -- closing its seven-aircraft based in Vienna is a significant indicator of what's coming. You also have Austrian Airlines losing money. I think -- and the Lauda grew [Phonetic] generally under significant pressure to explain why they're blowing brains out losing money in Eurowings without any kind of structure or without any great strategy. I think it's inevitable in the next year or two, Carsten and the team in Lauda -- or in Lufthansa will have to see some kind of further capacity cuts in Eurowings, which generally competes only with Lufthansa mainline. Fares in the German and Austrian markets, which have been very low for the last two years, steady themselves, and then Lauda will be reasonably profitable. I think the unit cost in Lauda will always be slightly higher than the Group average. But I expect that the yields in Lauda will also be higher than the Group average going forward and it should be a consistent deliverer of similar margins to what we deliver in Ryanair but with a higher average fare and a higher average cost.
+
+Johannes Braun -- Ryanair Holdings plc -- Mainfirst
+
+Okay, thank you.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Next question please.
+
+Operator
+
+The next question comes from the line of Malte Schulz from Commerzbank. Please go ahead.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Malte, good morning.
+
+Malte Schulz -- Commerzbank -- Analyst
+
+Good morning, Michael. First of all, maybe also a little bit on the subsidiaries or between the airlines. You do not disclose -- you say a little bit on Lauda but you do not disclose maybe margins and cost levels for Buzz and Malta Air. Is it something you might take up in the future so that you see, similar to IAG, maybe on an annual basis, the performance of the single brands that you see -- or the investor can see where you earn the most and where you have the highest return on invested capital? And the second question was, your tax rate in the first nine months were quite low. Is it also something that we can now look going forward that you will be significantly below 10% for the Group?
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Okay. Neil, I'll give you the tax question. On the subsidiaries, going forward, let's say, we are in discussions with KPMG, there will be some segmental information in the full-year results. There won't be anything remarkable in the -- or differentiated between Malta, Buzz and Ryanair. It's the same aircraft. They're taking over, for example, Ryanair bases in Central Eastern Europe. So they would be consistently, I would have thought, similar or at least the differences won't be material. It's a question where we allocate some of the overhead from Ryanair DAC here, which is kind of the Group overhead. Lauda will be slightly differentiated. I'm not sure whether it's big enough in this year to have segmental information. But it's likely I think Neil, in discuss with KPMG, will come out with some kind of guidance on traffic and revenues. We won't be breaking it down to unit costs and yields because that would be kind of commercially sensitive. But really, there will be no great difference between the 737 subsidiaries between them. There will be some differences in 727 subsidiaries and the A320 subsidiary, but how much of that we'll break down -- we'll break down as little as we have to, but there would be some kind of segmental information, not dissimilar to what IAG do.
+
+Neil Sorahan -- Group Chief Financial Officer
+
+So just adding on to that, it's really a factor of the strict thresholds in place in which you have to report segments and the level that you don't. None of our subsidiaries would probably qualify this year. But as Michael said, we may do some more details on like Lauda. The rest, as they get bigger, we'll probably get to a stage where we have to break them out, and when we get there, we will do so. But in the meantime, Ryanair DAC still remains the main airline in the Group.
+
+On the tax rate, for the first nine months of the year, we had a tax rate of about 7.5%. I wouldn't expect it to be much different to that, somewhere between 7.5% and 8% for the full year.
+
+Malte Schulz -- Commerzbank -- Analyst
+
+Okay, thank you.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Thanks Neil. Next question please.
+
+Operator
+
+The next question comes from the line of Gerald Khoo from Liberum. Please go ahead.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Gerald, hi.
+
+Gerald Khoo -- Liberum Capital -- Analyst
+
+Morning. A couple from me, if I can. Firstly, with the growth of multiple brands and AOCs, how would you guys be handling that when you've got multiple brands and multiple AOCs operating in the same country with regard to marketing, perhaps with exception [Phonetic] on the commercial side, and in terms of talks with the unions on the operating side? And secondly, on the ancillary revenues, you've talked about the sort of majority of priority boarding and seating. I'm just wondering where the next opportunity is there? You hinted at personalization. Where the opportunity is there? What's the next big thing on that ancillaries, really?
+
+Michael O'Leary -- Group Chief Executive Officer
+
+I think you identified it youself. And I think ancillaries is more personalization, which does kind of increase the propensity of people to take up those services. We kind of pack -- more packaging of those services, which is helping the conversion. If there was some other line of ancillaries or a stream of ancillaries that we were planning, we'd already be doing it. But we continue to look for opportunities there. But that's why we've been kind of reasonably cautious on ancillary revenues for the next year or two. We think the big step-up in growth coming from priority boarding and the reserved seating is done. There'll be a little bit of yield management going forward for the next year or two, but nothing more than that.
+
+On the brands and AOCs, again, don't get too caught up with brands. We're not like IAG where you bought established airlines, Aer Lingus, Iberia. They're all different brands. They do their own different things. We are a much more operationally efficient operation. Most of the sales for Lauda, Buzz, everything, they're still done across the ryanair.com website. So the sales come across the same website. The Lauda routes are -- they're sold on the ryanair.com website. They're also sold on the lauda.com website. The lauda.com website also shows the Ryanair sales. So it's really just a front-end for what is a big -- the Ryanair big central sales engine. Thereafter, we -- the way we do see the AOCs, it does give us the opportunity for further operating cost efficiencies. The fact that we can move to local taxation, and why the unions wanted local taxation in most of the countries is because personal tax rates are lower there than they are in Ireland. Ireland has this reputation as being a corporate tax haven, but it's a very penal country from a personal tax point of view. You hit the marginal rate of kind of EUR40,000 a year and you can't buy much in Dublin on EUR40,000 a year. And it does give us other efficiencies. In a way, it's helpful in some cases where we may be closing a base because we don't have enough 737s. But if we have some more spare A320s coming out, we could reopen that base as Lauda. Lauda, we do want to export the Lauda brand the Lauda operation into other countries. So it's not very narrowly focused on just Vienna, Stuttgart and Dusseldorf. That will also bring further efficiencies in Lauda as well. For example, three of the 19 aircraft that are based in Vienna this year would be Ryanair 737s operated by Ryanair on behalf of Lauda. So I regard separate brands and AOCs as much more, A, separate AOCs that give us operating efficiency and cost reductions. For example, lower taxation, rather than separate brands. We've never been big players of brands that are out here. The key brand here is we have lower cost than anybody else. We have better operational efficiency than anybody else. And we now have lower emissions than anybody else as well.
+
+And next question please.
+
+Operator
+
+There are no further questions on the phone.
+
+Michael O'Leary -- Group Chief Executive Officer
+
+Excellent. Okay, no further questions. Thank you very much for dialing in today. Again, I would just leave you with a bit of caution, everybody, against kind of irrational exuberance into Q4. There is a prospect, I think, of a more benign pricing environment out into the Q1, Q2 or through the summer of 2020. I think all of the indications we've seen from easyJet, Wizz and others is that there is a more benign pricing environment into next summer. As long as that maintains itself, we could be set fair for a reasonably positive FY '21. But we should be, again, guard -- cautiously guarded against things that could go wrong like coronavirus epidemic. We had the security incident in London last night. But I would be -- we should be reasonably optimistic into the next 12 months. There are still some cost challenges out there. ATC will still be a challenge into the summer of 2020. But certainly, I think the fact that we don't have any MAX aircraft for this year means that we will have less capacity ourselves. That means, we'll be putting less pressure on everybody else's capacity in Europe. I think capacity is going to fundamentally be flat to slightly down as Norwegian, Eurowings and others cut capacity, and that should be a reasonably benign pricing environment going forward where already we've locked away fuel into next year. We've hedged away the fuel and secured significant savings.
+
+The MAX will continue to be a slightly movable feast. We won't have any clarity until Boeing get the aircraft back in the air and then are able to deliver us MAX 200s. But I think that will be more an opportunity into FY '20, summer of '21. For those of you who'd wish us to stop growing and just start screwing passengers with higher fares, it won't happen. As soon as we can take those aircraft, we will take them because they will reduce our unit costs and they will widen the cost gap between us and all the other airlines who can't compete with us on cost here in Europe.
+
+Okay. Shane is here manning the phones in the Investor Relations desk today. Neil is in London doing all the PR. We're not doing a road show, obviously. I am -- I'll be doing a day in -- we're doing a morning in Paris or a day tomorrow in Paris. I'm doing a day in Frankfurt next week, just to keep boosting the European message as we encourage our -- the ADR brethren [Phonetic] to sell down some more stock. But other than that, I look forward to seeing you all in the full year results road show in May.
+
+Thanks very much, everybody. Appreciate your time and participating in the call. God bless. Bye-bye.
+
+Operator
+
+[Operator Closing Remarks]
+
+Duration: 65 minutes
+
+Call participants:
+Michael O'Leary -- Group Chief Executive Officer
+
+Neil Sorahan -- Group Chief Financial Officer
+
+Juliusz Komorek -- Group Chief Legal and Regulatory Officer; Company Secretary
+
+Daniel Roeska -- Bernstein Research -- Analyst
+
+Jarrod Castle -- UBS -- Analyst
+
+Mark Simpson -- Goodbody Stockbrokers -- Analyst
+
+Stephen Furlong -- Davy Stockbrokers -- Analyst
+
+Jaime Rowbotham -- Deutsche Bank -- Analyst
+
+Neil Glynn -- Credit Suisse -- Analyst
+
+Savanthi Syth -- Raymond James -- Analyst
+
+Alex Paterson -- Peel Hunt -- Analyst
+
+Johannes Braun -- Ryanair Holdings plc -- Mainfirst
+
+Malte Schulz -- Commerzbank -- Analyst
+
+Gerald Khoo -- Liberum Capital -- Analyst
