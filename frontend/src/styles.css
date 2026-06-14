@@ -7,6 +7,8 @@
 	--mark: #ffe26a;
 	--mark-soft: #fff3b0;
 	--warn: #9a6b1f;
+	--accent: #1e4d6b;
+	--accent-dark: #163a52;
 	--serif: "Instrument Serif", georgia, serif;
 	--sans: "Hanken Grotesk", system-ui, sans-serif;
 	--mono: "JetBrains Mono", ui-monospace, monospace;
@@ -544,7 +546,7 @@ select:hover {
 .home-eyebrow {
 	display: inline-block;
 	background: rgba(30, 77, 107, 0.1);
-	color: #1e4d6b;
+	color: var(--accent);
 	padding: 4px 14px;
 	border-radius: 99px;
 	margin-bottom: 4px;
@@ -559,7 +561,7 @@ select:hover {
 	margin: 0;
 }
 .home-mark {
-	color: #1e4d6b;
+	color: var(--accent);
 }
 .home-sub {
 	font-size: 17px;
@@ -586,7 +588,7 @@ select:hover {
 	gap: 8px;
 	padding: 28px;
 	background: rgba(255, 255, 255, 0.8);
-	border: 1px solid rgba(30, 77, 107, 0.15);
+	border: 1px solid rgba(30, 77, 107, 0.15); /* --accent at 15% opacity */
 	border-radius: 16px;
 	cursor: pointer;
 	text-align: left;
@@ -594,9 +596,9 @@ select:hover {
 		0.15s;
 }
 .home-card:hover {
-	border-color: #1e4d6b;
+	border-color: var(--accent);
 	transform: translateY(-3px);
-	box-shadow: 0 8px 24px rgba(30, 77, 107, 0.12);
+	box-shadow: 0 8px 24px rgba(30, 77, 107, 0.12); /* --accent at 12% opacity */
 	background: var(--surface);
 }
 .home-card h2 {
@@ -622,13 +624,13 @@ select:hover {
 	font-size: 13px;
 	font-weight: 600;
 	color: #fff;
-	background: #1e4d6b;
+	background: var(--accent);
 	padding: 7px 16px;
 	border-radius: 8px;
 	transition: background 0.15s, gap 0.15s;
 }
 .home-card:hover .home-card-cta {
-	background: #163a52;
+	background: var(--accent-dark);
 }
 .home-card-arrow {
 	transition: transform 0.15s;

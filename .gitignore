@@ -3,5 +3,6 @@ backend/.venv/
 __pycache__/
 node_modules/
 backend/dist/
+frontend/dist/
 .env
 .zed/
