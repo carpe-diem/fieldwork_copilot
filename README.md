@@ -43,10 +43,9 @@ Ryanair ×4, Wizz Air ×2 — two intra-sector pairs that also cross-compare.
 
 ```bash
 cd backend
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-cp .env.example .env          # then add your OPENAI_API_KEY
-python ingest.py              # builds library.db from ../corpus
+cp .env.example .env          # add your OPENAI_API_KEY
+uv sync                       # installs deps from uv.lock
+uv run python ingest.py       # builds library.db from ../corpus
 uv run uvicorn main:app --port 8000 --reload
 ```
 
